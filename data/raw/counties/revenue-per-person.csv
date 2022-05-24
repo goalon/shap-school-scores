@@ -1,0 +1,2865 @@
+TERYT;Name;Revenue per person
+0000000;POLSKA;6502.68
+0200000;DOLNOŚLĄSKIE;6461.10
+0201000;Powiat bolesławiecki;5454.80
+0201011;Bolesławiec (1);5199.18
+0201022;Bolesławiec (2);5434.29
+0201032;Gromadka (2);7971.48
+0201043;Nowogrodziec (3);4941.91
+0201052;Osiecznica (2);6437.78
+0201062;Warta Bolesławiecka (2);5145.14
+0202000;Powiat dzierżoniowski;5102.75
+0202011;Bielawa (1);5255.87
+0202021;Dzierżoniów (1);4831.60
+0202033;Pieszyce (3);4328.94
+0202041;Piława Górna (1);5181.64
+0202052;Dzierżoniów (2);5267.80
+0202062;Łagiewniki (2);5894.56
+0202073;Niemcza (3);5801.16
+0203000;Powiat głogowski;6329.09
+0203011;Głogów (1);5832.63
+0203022;Głogów (2);6043.21
+0203032;Jerzmanowa (2);11854.23
+0203042;Kotla (2);6616.51
+0203052;Pęcław (2);5732.01
+0203062;Żukowice (2);8050.83
+0204000;Powiat górowski;5666.11
+0204013;Góra (3);5525.70
+0204022;Jemielno (2);6197.43
+0204032;Niechlów (2);5859.79
+0204043;Wąsosz (3);5703.48
+0205000;Powiat jaworski;5769.03
+0205011;Jawor (1);5415.57
+0205023;Bolków (3);5765.90
+0205032;Męcinka (2);7035.73
+0205042;Mściwojów (2);5833.68
+0205052;Paszowice (2);5732.21
+0205062;Wądroże Wielkie (2);6170.38
+0206000;Powiat karkonoski;5730.76
+0206011;Karpacz (1);8486.22
+0206021;Kowary (1);4805.62
+0206031;Piechowice (1);5247.40
+0206041;Szklarska Poręba (1);7457.53
+0206052;Janowice Wielkie (2);5087.89
+0206062;Jeżów Sudecki (2);5265.80
+0206072;Mysłakowice (2);5185.67
+0206082;Podgórzyn (2);5837.40
+0206092;Stara Kamienica (2);5708.06
+0207000;Powiat kamiennogórski;5118.18
+0207011;Kamienna Góra (1);5176.66
+0207022;Kamienna Góra (2);5645.78
+0207033;Lubawka (3);4574.20
+0207042;Marciszów (2);5123.31
+0208000;Powiat kłodzki;5448.39
+0208011;Duszniki-Zdrój (1);7139.34
+0208021;Kłodzko (1);4981.36
+0208031;Kudowa-Zdrój (1);5745.98
+0208041;Nowa Ruda (1);4657.28
+0208051;Polanica-Zdrój (1);7329.85
+0208063;Bystrzyca Kłodzka (3);5633.01
+0208072;Kłodzko (2);5604.61
+0208083;Lądek-Zdrój (3);5967.18
+0208092;Lewin Kłodzki (2);7670.97
+0208103;Międzylesie (3);5018.57
+0208112;Nowa Ruda (2);5486.86
+0208123;Radków (3);6461.92
+0208133;Stronie Śląskie (3);4331.91
+0208143;Szczytna (3);4685.68
+0209000;Powiat legnicki;5650.18
+0209011;Chojnów (1);4521.56
+0209022;Chojnów (2);5901.24
+0209032;Krotoszyce (2);6392.68
+0209042;Kunice (2);6102.72
+0209052;Legnickie Pole (2);7444.39
+0209062;Miłkowice (2);5113.91
+0209073;Prochowice (3);5752.00
+0209082;Ruja (2);5845.09
+0210000;Powiat lubański;5180.11
+0210011;Lubań (1);4649.48
+0210021;Świeradów-Zdrój (1);8406.20
+0210033;Leśna (3);4755.60
+0210042;Lubań (2);5238.62
+0210053;Olszyna (3);5297.00
+0210062;Platerówka (2);5567.02
+0210072;Siekierczyn (2);5279.63
+0211000;Powiat lubiński;6409.84
+0211011;Lubin (1);5913.21
+0211022;Lubin (2);7490.67
+0211032;Rudna (2);9164.89
+0211043;Ścinawa (3);6075.35
+0212000;Powiat lwówecki;4985.73
+0212013;Gryfów Śląski (3);4367.77
+0212023;Lubomierz (3);5663.40
+0212033;Lwówek Śląski (3);4501.27
+0212043;Mirsk (3);5285.89
+0212053;Wleń (3);6765.40
+0213000;Powiat milicki;5812.81
+0213012;Cieszków (2);5537.40
+0213022;Krośnice (2);6019.73
+0213033;Milicz (3);5796.50
+0214000;Powiat oleśnicki;5408.16
+0214011;Oleśnica (1);5141.49
+0214023;Bierutów (3);4950.01
+0214032;Dobroszyce (2);7625.71
+0214042;Dziadowa Kłoda (2);5846.16
+0214053;Międzybórz (3);5477.42
+0214062;Oleśnica (2);5828.09
+0214073;Syców (3);5013.94
+0214083;Twardogóra (3);5226.07
+0215000;Powiat oławski;5803.30
+0215011;Oława (1);5172.48
+0215022;Domaniów (2);6499.15
+0215033;Jelcz-Laskowice (3);5867.92
+0215042;Oława (2);6844.50
+0216000;Powiat polkowicki;7866.23
+0216013;Chocianów (3);4612.10
+0216022;Gaworzyce (2);6161.47
+0216032;Grębocice (2);10545.90
+0216043;Polkowice (3);10020.15
+0216053;Przemków (3);4932.55
+0216062;Radwanice (2);7566.41
+0217000;Powiat strzeliński;5322.23
+0217012;Borów (2);4996.83
+0217022;Kondratowice (2);5277.58
+0217032;Przeworno (2);4577.55
+0217043;Strzelin (3);5455.74
+0217053;Wiązów (3);5671.24
+0218000;Powiat średzki;6080.61
+0218012;Kostomłoty (2);5818.05
+0218022;Malczyce (2);4794.05
+0218032;Miękinia (2);6536.95
+0218043;Środa Śląska (3);6038.59
+0218052;Udanin (2);6560.77
+0219000;Powiat świdnicki;5502.82
+0219011;Świdnica (1);5174.90
+0219021;Świebodzice (1);4989.56
+0219032;Dobromierz (2);7618.62
+0219043;Jaworzyna Śląska (3);5866.63
+0219052;Marcinowice (2);6450.96
+0219063;Strzegom (3);5555.66
+0219072;Świdnica (2);5794.29
+0219083;Żarów (3);5736.36
+0220000;Powiat trzebnicki;5756.99
+0220013;Oborniki Śląskie (3);5426.69
+0220023;Prusice (3);6401.90
+0220033;Trzebnica (3);5566.09
+0220042;Wisznia Mała (2);6467.88
+0220052;Zawonia (2);6749.50
+0220063;Żmigród (3);5204.07
+0221000;Powiat wałbrzyski;5883.20
+0221011;Boguszów-Gorce (1);5103.93
+0221021;Jedlina-Zdrój (1);5320.08
+0221031;Szczawno-Zdrój (1);6890.76
+0221042;Czarny Bór (2);7718.65
+0221053;Głuszyca (3);5526.02
+0221063;Mieroszów (3);6686.15
+0221072;Stare Bogaczowice (2);5185.34
+0221082;Walim (2);6019.61
+0222000;Powiat wołowski;5576.07
+0222013;Brzeg Dolny (3);5945.30
+0222022;Wińsko (2);5626.05
+0222033;Wołów (3);5292.24
+0223000;Powiat wrocławski;7881.04
+0223012;Czernica (2);6947.32
+0223022;Długołęka (2);6914.43
+0223032;Jordanów Śląski (2);5691.60
+0223043;Kąty Wrocławskie (3);7669.53
+0223052;Kobierzyce (2);12963.74
+0223062;Mietków (2);5909.99
+0223073;Sobótka (3);6087.84
+0223083;Siechnice (3);7663.29
+0223092;Żórawina (2);6585.61
+0224000;Powiat ząbkowicki;5457.35
+0224013;Bardo (3);6375.43
+0224022;Ciepłowody (2);7802.47
+0224042;Stoszowice (2);4621.23
+0224053;Ząbkowice Śląskie (3);5348.37
+0224063;Ziębice (3);4851.50
+0224073;Złoty Stok (3);6383.62
+0225000;Powiat zgorzelecki;5604.96
+0225011;Zawidów (1);4851.98
+0225021;Zgorzelec (1);4370.42
+0225033;Bogatynia (3);7498.21
+0225043;Pieńsk (3);5104.07
+0225052;Sulików (2);5114.39
+0225063;Węgliniec (3);5532.06
+0225072;Zgorzelec (2);6205.32
+0226000;Powiat złotoryjski;5377.17
+0226011;Wojcieszów (1);5642.53
+0226021;Złotoryja (1);5257.49
+0226032;Pielgrzymka (2);6086.98
+0226043;Świerzawa (3);5163.74
+0226052;Zagrodno (2);5465.50
+0226062;Złotoryja (2);5204.86
+0261000;Powiat m.Jelenia Góra;6893.44
+0261011;Jelenia Góra (1);6893.44
+0262000;Powiat m.Legnica;6732.13
+0262011;Legnica (1);6732.13
+0264000;Powiat m.Wrocław;8039.00
+0264011;Wrocław (1);8039.00
+0265000;Powiat m.Wałbrzych od 2013;7334.88
+0265011;Wałbrzych od 2013 (1);7334.88
+0400000;KUJAWSKO-POMORSKIE;6196.20
+0401000;Powiat aleksandrowski;5570.40
+0401011;Aleksandrów Kujawski (1);5202.14
+0401021;Ciechocinek (1);5379.68
+0401031;Nieszawa (1);5478.48
+0401042;Aleksandrów Kujawski (2);5409.73
+0401052;Bądkowo (2);6028.06
+0401062;Koneck (2);7134.82
+0401072;Raciążek (2);5363.59
+0401082;Waganiec (2);5447.84
+0401092;Zakrzewo (2);6417.19
+0402000;Powiat brodnicki;5729.28
+0402011;Brodnica (1);5567.06
+0402022;Bobrowo (2);6018.63
+0402032;Brodnica (2);6628.01
+0402042;Brzozie (2);6021.08
+0402053;Górzno (3);6204.34
+0402062;Bartniczka (2);5518.51
+0402073;Jabłonowo Pomorskie (3);5381.56
+0402082;Osiek (2);5342.70
+0402092;Świedziebnia (2);5456.90
+0402102;Zbiczno (2);5564.99
+0403000;Powiat bydgoski;6221.86
+0403012;Białe Błota (2);6202.45
+0403022;Dąbrowa Chełmińska (2);5842.09
+0403032;Dobrcz (2);5522.14
+0403043;Koronowo (3);5444.46
+0403052;Nowa Wieś Wielka (2);6769.26
+0403062;Osielsko (2);7794.14
+0403072;Sicienko (2);6467.70
+0403083;Solec Kujawski (3);6158.81
+0404000;Powiat chełmiński;5394.69
+0404011;Chełmno (1);4764.34
+0404022;Chełmno (2);5297.05
+0404032;Kijewo Królewskie (2);6310.34
+0404042;Lisewo (2);5610.56
+0404052;Papowo Biskupie (2);5424.06
+0404062;Stolno (2);5371.06
+0404072;Unisław (2);6479.65
+0405000;Powiat golubsko-dobrzyński;5528.03
+0405011;Golub-Dobrzyń (1);5023.03
+0405022;Ciechocin (2);5530.85
+0405032;Golub-Dobrzyń (2);5752.55
+0405043;Kowalewo Pomorskie (3);5628.49
+0405052;Radomin (2);5620.48
+0405062;Zbójno (2);6174.54
+0406000;Powiat grudziądzki;6100.35
+0406012;Grudziądz (2);6147.93
+0406022;Gruta (2);5634.81
+0406033;Łasin (3);6333.57
+0406043;Radzyń Chełmiński (3);7102.69
+0406052;Rogóźno (2);5312.62
+0406062;Świecie nad Osą (2);5911.28
+0407000;Powiat inowrocławski;5339.03
+0407011;Inowrocław (1);5335.84
+0407022;Dąbrowa Biskupia (2);6081.10
+0407033;Gniewkowo (3);5178.46
+0407042;Inowrocław (2);5526.49
+0407053;Janikowo (3);5096.43
+0407063;Kruszwica (3);5348.19
+0407073;Pakość (3);5125.02
+0407082;Rojewo (2);5593.68
+0407092;Złotniki Kujawskie (2);5386.73
+0408000;Powiat lipnowski;5847.46
+0408011;Lipno (1);5150.57
+0408022;Bobrowniki (2);5921.11
+0408032;Chrostkowo (2);7241.07
+0408043;Dobrzyń nad Wisłą (3);6129.29
+0408052;Kikół (2);5873.06
+0408062;Lipno (2);5533.42
+0408073;Skępe (3);6182.39
+0408082;Tłuchowo (2);6260.86
+0408092;Wielgie (2);6255.14
+0409000;Powiat mogileński;5612.50
+0409012;Dąbrowa (2);5756.09
+0409022;Jeziora Wielkie (2);5950.98
+0409033;Mogilno (3);5659.26
+0409043;Strzelno (3);5313.88
+0410000;Powiat nakielski;5607.65
+0410013;Kcynia (3);5925.44
+0410023;Mrocza (3);6433.37
+0410033;Nakło nad Notecią (3);5334.66
+0410042;Sadki (2);5462.01
+0410053;Szubin (3);5521.43
+0411000;Powiat radziejowski;5531.63
+0411011;Radziejów (1);5008.40
+0411022;Bytoń (2);6529.04
+0411032;Dobre (2);5437.60
+0411042;Osięciny (2);5505.02
+0411053;Piotrków Kujawski (3);5266.48
+0411062;Radziejów (2);5524.06
+0411072;Topólka (2);6084.63
+0412000;Powiat rypiński;5701.86
+0412011;Rypin (1);5733.24
+0412022;Brzuze (2);5292.07
+0412032;Rogowo (2);6167.80
+0412042;Rypin (2);5804.74
+0412052;Skrwilno (2);5357.79
+0412062;Wąpielsk (2);5875.17
+0413000;Powiat sępoleński;5420.31
+0413013;Kamień Krajeński (3);5266.66
+0413023;Sępólno Krajeńskie (3);5357.99
+0413032;Sośno (2);5908.91
+0413043;Więcbork (3);5391.62
+0414000;Powiat świecki;6226.29
+0414012;Bukowiec (2);6485.87
+0414022;Dragacz (2);6035.78
+0414032;Drzycim (2);6944.98
+0414042;Jeżewo (2);6483.83
+0414052;Lniano (2);6494.31
+0414063;Nowe (3);5523.77
+0414072;Osie (2);5917.23
+0414082;Pruszcz (2);5615.72
+0414093;Świecie (3);6436.73
+0414102;Świekatowo (2);6735.20
+0414112;Warlubie (2);6070.86
+0415000;Powiat toruński;5969.53
+0415011;Chełmża (1);5812.81
+0415022;Chełmża (2);6073.33
+0415032;Czernikowo (2);6566.87
+0415042;Lubicz (2);5657.37
+0415052;Łubianka (2);6580.06
+0415062;Łysomice (2);6564.22
+0415072;Obrowo (2);5720.85
+0415082;Wielka Nieszawka (2);6474.46
+0415092;Zławieś Wielka (2);5515.72
+0416000;Powiat tucholski;5916.62
+0416012;Cekcyn (2);5961.37
+0416022;Gostycyn (2);6802.03
+0416032;Kęsowo (2);6590.57
+0416042;Lubiewo (2);6727.92
+0416052;Śliwice (2);6259.16
+0416063;Tuchola (3);5189.85
+0417000;Powiat wąbrzeski;5600.63
+0417011;Wąbrzeźno (1);5033.94
+0417022;Dębowa Łąka (2);6533.62
+0417032;Książki (2);5641.12
+0417042;Płużnica (2);6653.50
+0417052;Ryńsk (2);5543.93
+0418000;Powiat włocławski;5767.78
+0418011;Kowal (1);5396.75
+0418022;Baruchowo (2);6377.92
+0418032;Boniewo (2);6059.93
+0418043;Brześć Kujawski (3);6553.49
+0418052;Choceń (2);5533.44
+0418063;Chodecz (3);5279.56
+0418072;Fabianki (2);5051.33
+0418083;Izbica Kujawska (3);5865.79
+0418092;Kowal (2);5612.40
+0418102;Lubanie (2);5616.87
+0418113;Lubień Kujawski (3);6069.57
+0418123;Lubraniec (3);5326.07
+0418132;Włocławek (2);6285.98
+0419000;Powiat żniński;5578.80
+0419013;Barcin (3);6074.39
+0419022;Gąsawa (2);5882.42
+0419033;Janowiec Wielkopolski (3);5110.02
+0419043;Łabiszyn (3);5353.59
+0419052;Rogowo (2);6104.22
+0419063;Żnin (3);5329.53
+0461000;Powiat m.Bydgoszcz;6864.55
+0461011;Bydgoszcz (1);6864.55
+0462000;Powiat m.Grudziądz;6947.53
+0462011;Grudziądz (1);6947.53
+0463000;Powiat m.Toruń;7155.55
+0463011;Toruń (1);7155.55
+0464000;Powiat m.Włocławek;7116.64
+0464011;Włocławek (1);7116.64
+0600000;LUBELSKIE;5993.94
+0601000;Powiat bialski;5720.27
+0601011;Międzyrzec Podlaski (1);5199.90
+0601021;Terespol (1);5155.78
+0601032;Biała Podlaska (2);5114.52
+0601042;Drelów (2);5903.98
+0601052;Janów Podlaski (2);6066.06
+0601062;Kodeń (2);6124.53
+0601072;Konstantynów (2);5886.61
+0601082;Leśna Podlaska (2);5809.27
+0601092;Łomazy (2);6169.48
+0601102;Międzyrzec Podlaski (2);6483.17
+0601112;Piszczac (2);5845.47
+0601122;Rokitno (2);5469.01
+0601132;Rossosz (2);5415.09
+0601142;Sławatycze (2);7351.45
+0601152;Sosnówka (2);5135.84
+0601162;Terespol (2);5513.26
+0601172;Tuczna (2);6021.54
+0601182;Wisznice (2);6727.39
+0601192;Zalesie (2);5476.81
+0602000;Powiat biłgorajski;5525.37
+0602011;Biłgoraj (1);5289.88
+0602022;Aleksandrów (2);5356.60
+0602032;Biłgoraj (2);5798.21
+0602042;Biszcza (2);5850.32
+0602053;Frampol (3);4989.13
+0602073;Józefów (3);5310.64
+0602082;Księżpol (2);6773.41
+0602092;Łukowa (2);5003.05
+0602102;Obsza (2);6354.86
+0602112;Potok Górny (2);4977.29
+0602123;Tarnogród (3);6234.77
+0602132;Tereszpol (2);5116.54
+0602142;Turobin (2);5202.58
+0603000;Powiat chełmski;5378.63
+0603011;Rejowiec Fabryczny (1);6797.52
+0603022;Białopole (2);5850.31
+0603032;Chełm (2);5034.41
+0603042;Dorohusk (2);5032.49
+0603052;Dubienka (2);4708.00
+0603062;Kamień (2);5143.12
+0603072;Leśniowice (2);5993.62
+0603082;Rejowiec Fabryczny (2);5721.58
+0603092;Ruda-Huta (2);5317.34
+0603102;Sawin (2);5405.45
+0603113;Siedliszcze (3);5059.21
+0603122;Wierzbica (2);6131.01
+0603132;Wojsławice (2);5234.65
+0603142;Żmudź (2);5582.35
+0603153;Rejowiec (3);4932.75
+0604000;Powiat hrubieszowski;4959.31
+0604011;Hrubieszów (1);5126.35
+0604022;Dołhobyczów (2);4890.69
+0604032;Horodło (2);4808.55
+0604042;Hrubieszów (2);5348.28
+0604052;Mircze (2);4686.95
+0604062;Trzeszczany (2);4825.79
+0604072;Uchanie (2);4425.32
+0604082;Werbkowice (2);4872.90
+0605000;Powiat janowski;5314.44
+0605012;Batorz (2);5459.56
+0605022;Chrzanów (2);6067.64
+0605032;Dzwola (2);4956.47
+0605042;Godziszów (2);5712.99
+0605053;Janów Lubelski (3);5460.98
+0605063;Modliborzyce (3);4628.49
+0605072;Potok Wielki (2);5247.43
+0606000;Powiat krasnostawski;4839.48
+0606011;Krasnystaw (1);4369.52
+0606022;Fajsławice (2);5369.71
+0606032;Gorzków (2);4292.87
+0606042;Izbica (2);4683.38
+0606052;Krasnystaw (2);4889.99
+0606062;Kraśniczyn (2);5004.27
+0606072;Łopiennik Górny (2);5156.13
+0606092;Rudnik (2);5818.76
+0606102;Siennica Różana (2);4955.85
+0606112;Żółkiewka (2);5550.56
+0607000;Powiat kraśnicki;5058.27
+0607011;Kraśnik (1);4421.96
+0607023;Annopol (3);5884.92
+0607032;Dzierzkowice (2);4973.68
+0607042;Gościeradów (2);5607.23
+0607052;Kraśnik (2);4604.83
+0607062;Szastarka (2);5280.49
+0607072;Trzydnik Duży (2);5227.18
+0607083;Urzędów (3);5366.90
+0607092;Wilkołaz (2);6239.20
+0607102;Zakrzówek (2);5517.15
+0608000;Powiat lubartowski;5936.15
+0608011;Lubartów (1);5797.33
+0608022;Abramów (2);5494.13
+0608032;Firlej (2);6325.63
+0608042;Jeziorzany (2);5388.87
+0608063;Kock (3);6424.65
+0608072;Lubartów (2);6323.75
+0608082;Michów (2);5431.75
+0608092;Niedźwiada (2);5621.70
+0608103;Ostrów Lubelski (3);6686.38
+0608112;Ostrówek (2);5379.19
+0608122;Serniki (2);6050.54
+0608132;Uścimów (2);5533.46
+0609000;Powiat lubelski;5809.12
+0609013;Bełżyce (3);5069.17
+0609022;Borzechów (2);4859.97
+0609033;Bychawa (3);4839.34
+0609042;Garbów (2);5911.20
+0609052;Głusk (2);7290.73
+0609062;Jabłonna (2);6205.67
+0609072;Jastków (2);5882.93
+0609082;Konopnica (2);5629.61
+0609092;Krzczonów (2);5803.04
+0609102;Niedrzwica Duża (2);6882.87
+0609112;Niemce (2);5366.47
+0609122;Strzyżewice (2);5681.53
+0609132;Wojciechów (2);5681.93
+0609142;Wólka (2);6433.86
+0609152;Wysokie (2);5296.44
+0609162;Zakrzew (2);4664.24
+0610000;Powiat łęczyński;5967.78
+0610012;Cyców (2);6761.87
+0610022;Ludwin (2);6277.79
+0610033;Łęczna (3);4776.84
+0610042;Milejów (2);6088.57
+0610052;Puchaczów (2);9968.83
+0610062;Spiczyn (2);5220.72
+0611000;Powiat łukowski;5621.28
+0611011;Łuków (1);5111.51
+0611021;Stoczek Łukowski (1);6518.42
+0611032;Adamów (2);6575.73
+0611042;Krzywda (2);5915.97
+0611052;Łuków (2);5760.11
+0611062;Serokomla (2);5731.44
+0611072;Stanin (2);6044.04
+0611082;Stoczek Łukowski (2);5204.87
+0611092;Trzebieszów (2);5715.56
+0611102;Wojcieszków (2);5822.31
+0611112;Wola Mysłowska (2);5312.52
+0612000;Powiat opolski;5522.06
+0612012;Chodel (2);5744.95
+0612023;Józefów nad Wisłą (3);4892.98
+0612032;Karczmiska (2);4993.13
+0612042;Łaziska (2);4948.57
+0612053;Opole Lubelskie (3);6177.84
+0612063;Poniatowa (3);5167.76
+0612072;Wilków (2);6013.58
+0613000;Powiat parczewski;5297.67
+0613012;Dębowa Kłoda (2);5826.66
+0613022;Jabłoń (2);5850.12
+0613032;Milanów (2);5382.10
+0613043;Parczew (3);4969.61
+0613052;Podedwórze (2);5328.65
+0613062;Siemień (2);4851.96
+0613072;Sosnowica (2);6140.26
+0614000;Powiat puławski;6281.88
+0614011;Puławy (1);6834.08
+0614022;Baranów (2);6634.03
+0614032;Janowiec (2);5614.53
+0614043;Kazimierz Dolny (3);5139.25
+0614052;Końskowola (2);5979.03
+0614062;Kurów (2);5868.01
+0614072;Markuszów (2);6070.46
+0614083;Nałęczów (3);7083.72
+0614092;Puławy (2);5080.40
+0614102;Wąwolnica (2);5337.67
+0614112;Żyrzyn (2);6411.64
+0615000;Powiat radzyński;5606.12
+0615011;Radzyń Podlaski (1);5079.44
+0615022;Borki (2);6651.14
+0615032;Czemierniki (2);5388.23
+0615042;Kąkolewnica (2);5782.21
+0615052;Komarówka Podlaska (2);5898.26
+0615062;Radzyń Podlaski (2);5797.80
+0615072;Ulan-Majorat (2);5777.00
+0615082;Wohyń (2);5258.06
+0616000;Powiat rycki;5567.53
+0616011;Dęblin (1);5049.00
+0616022;Kłoczew (2);6039.68
+0616032;Nowodwór (2);5530.05
+0616043;Ryki (3);5860.29
+0616052;Stężyca (2);5201.65
+0616062;Ułęż (2);5881.01
+0617000;Powiat świdnicki;5690.75
+0617011;Świdnik (1);6012.56
+0617022;Mełgiew (2);5568.97
+0617033;Piaski (3);5454.82
+0617042;Rybczewice (2);6134.90
+0617052;Trawniki (2);4524.57
+0618000;Powiat tomaszowski;5440.09
+0618011;Tomaszów Lubelski (1);6153.41
+0618022;Bełżec (2);5265.91
+0618032;Jarczów (2);4897.35
+0618042;Krynice (2);5610.24
+0618053;Lubycza Królewska (3);5135.59
+0618063;Łaszczów (3);5080.82
+0618072;Rachanie (2);5081.36
+0618082;Susiec (2);5232.98
+0618092;Tarnawatka (2);5969.33
+0618102;Telatyn (2);5133.47
+0618112;Tomaszów Lubelski (2);4966.06
+0618123;Tyszowce (3);5898.93
+0618132;Ulhówek (2);4914.39
+0619000;Powiat włodawski;5587.14
+0619011;Włodawa (1);5082.37
+0619022;Hanna (2);5563.50
+0619032;Hańsk (2);5977.00
+0619042;Stary Brus (2);5979.66
+0619052;Urszulin (2);7330.00
+0619062;Włodawa (2);5134.17
+0619072;Wola Uhruska (2);5662.47
+0619082;Wyryki (2);5439.93
+0620000;Powiat zamojski;5038.73
+0620012;Adamów (2);4813.13
+0620022;Grabowiec (2);4762.27
+0620032;Komarów-Osada (2);4656.85
+0620043;Krasnobród (3);5492.53
+0620052;Łabunie (2);4864.75
+0620062;Miączyn (2);4672.53
+0620072;Nielisz (2);5448.68
+0620082;Radecznica (2);5613.49
+0620092;Sitno (2);5215.63
+0620102;Skierbieszów (2);6202.41
+0620112;Stary Zamość (2);5733.45
+0620122;Sułów (2);4846.39
+0620133;Szczebrzeszyn (3);4594.61
+0620142;Zamość (2);4804.18
+0620153;Zwierzyniec (3);4892.73
+0661000;Powiat m.Biała Podlaska;7374.46
+0661011;Biała Podlaska (1);7374.46
+0662000;Powiat m.Chełm;8035.34
+0662011;Chełm (1);8035.34
+0663000;Powiat m.Lublin;7063.48
+0663011;Lublin (1);7063.48
+0664000;Powiat m.Zamość;8202.60
+0664011;Zamość (1);8202.60
+0800000;LUBUSKIE;6089.96
+0801000;Powiat gorzowski;5916.58
+0801011;Kostrzyn nad Odrą (1);6371.58
+0801022;Bogdaniec (2);5537.84
+0801032;Deszczno (2);5421.37
+0801042;Kłodawa (2);6132.45
+0801052;Lubiszyn (2);6021.22
+0801062;Santok (2);5723.88
+0801073;Witnica (3);5812.80
+0802000;Powiat krośnieński;5183.48
+0802011;Gubin (1);5112.92
+0802022;Bobrowice (2);6698.68
+0802032;Bytnica (2);4510.37
+0802042;Dąbie (2);5129.86
+0802052;Gubin (2);4828.11
+0802063;Krosno Odrzańskie (3);5269.07
+0802072;Maszewo (2);4947.32
+0803000;Powiat międzyrzecki;5773.29
+0803012;Bledzew (2);5704.58
+0803023;Międzyrzecz (3);5568.08
+0803032;Przytoczna (2);5970.19
+0803042;Pszczew (2);7083.16
+0803053;Skwierzyna (3);5577.22
+0803063;Trzciel (3);5933.98
+0804000;Powiat nowosolski;5361.10
+0804011;Nowa Sól (1);5304.03
+0804023;Bytom Odrzański (3);5795.09
+0804032;Kolsko (2);5840.48
+0804043;Kożuchów (3);4715.14
+0804052;Nowa Sól (2);5641.23
+0804063;Nowe Miasteczko (3);5741.84
+0804073;Otyń (3);5660.08
+0804082;Siedlisko (2);6045.85
+0805000;Powiat słubicki;6154.70
+0805013;Cybinka (3);5015.10
+0805022;Górzyca (2);6413.19
+0805033;Ośno Lubuskie (3);6946.39
+0805043;Rzepin (3);6619.05
+0805053;Słubice (3);5991.05
+0806000;Powiat strzelecko-drezdenecki;5866.56
+0806013;Dobiegniew (3);7214.05
+0806023;Drezdenko (3);6172.81
+0806032;Stare Kurowo (2);5975.28
+0806043;Strzelce Krajeńskie (3);5036.76
+0806052;Zwierzyn (2);5779.59
+0807000;Powiat sulęciński;6336.41
+0807012;Krzeszyce (2);6249.27
+0807023;Lubniewice (3);5780.81
+0807032;Słońsk (2);6311.88
+0807043;Sulęcin (3);6948.48
+0807053;Torzym (3);5257.62
+0808000;Powiat świebodziński;6050.34
+0808012;Lubrza (2);5780.11
+0808022;Łagów (2);5830.50
+0808032;Skąpe (2);5866.14
+0808042;Szczaniec (2);7612.50
+0808053;Świebodzin (3);5283.93
+0808063;Zbąszynek (3);8438.74
+0809000;Powiat zielonogórski;5684.30
+0809013;Babimost (3);6181.96
+0809022;Bojadła (2);5277.92
+0809033;Czerwieńsk (3);5618.36
+0809043;Kargowa (3);5756.19
+0809053;Nowogród Bobrzański (3);5075.51
+0809063;Sulechów (3);5432.50
+0809072;Świdnica (2);7118.13
+0809082;Trzebiechów (2);5608.66
+0809092;Zabór (2);6067.20
+0810000;Powiat żagański;5438.35
+0810011;Gozdnica (1);6922.42
+0810021;Żagań (1);5065.71
+0810032;Brzeźnica (2);5800.74
+0810043;Iłowa (3);6454.26
+0810053;Małomice (3);5183.70
+0810062;Niegosławice (2);6399.35
+0810073;Szprotawa (3);5182.39
+0810082;Wymiarki (2);5305.59
+0810092;Żagań (2);5371.00
+0811000;Powiat żarski;5462.53
+0811011;Łęknica (1);9245.49
+0811021;Żary (1);5520.46
+0811032;Brody (2);5667.13
+0811043;Jasień (3);4884.76
+0811052;Lipinki Łużyckie (2);5841.06
+0811063;Lubsko (3);5127.17
+0811072;Przewóz (2);5745.37
+0811082;Trzebiel (2);5047.92
+0811092;Tuplice (2);5393.59
+0811102;Żary (2);5343.26
+0812000;Powiat wschowski;5137.42
+0812013;Sława (3);5860.91
+0812023;Szlichtyngowa (3);5407.16
+0812033;Wschowa (3);4638.55
+0861000;Powiat m.Gorzów Wielkopolski;7408.06
+0861011;Gorzów Wielkopolski (1);7408.06
+0862000;Powiat m.Zielona Góra;7227.96
+0862011;Zielona Góra (1);7227.96
+1000000;ŁÓDZKIE;6184.58
+1001000;Powiat bełchatowski;7572.47
+1001011;Bełchatów (1);5126.37
+1001022;Bełchatów (2);5473.16
+1001032;Drużbice (2);5733.62
+1001042;Kleszczów (2);41002.45
+1001052;Kluki (2);4996.88
+1001062;Rusiec (2);5147.82
+1001072;Szczerców (2);10490.70
+1001083;Zelów (3);4872.29
+1002000;Powiat kutnowski;5496.23
+1002011;Kutno (1);5631.51
+1002022;Bedlno (2);4937.77
+1002032;Dąbrowice (2);8544.02
+1002043;Krośniewice (3);5054.98
+1002052;Krzyżanów (2);5595.59
+1002062;Kutno (2);5198.00
+1002072;Łanięta (2);5479.65
+1002082;Nowe Ostrowy (2);5753.06
+1002092;Oporów (2);5661.01
+1002102;Strzelce (2);7190.02
+1002113;Żychlin (3);4585.79
+1003000;Powiat łaski;4904.17
+1003012;Buczek (2);5064.85
+1003023;Łask (3);4464.58
+1003032;Sędziejowice (2);5535.12
+1003042;Widawa (2);5614.37
+1003052;Wodzierady (2);5511.50
+1004000;Powiat łęczycki;5527.32
+1004011;Łęczyca (1);5178.64
+1004022;Daszyna (2);7369.26
+1004032;Góra Świętej Małgorzaty (2);5454.54
+1004042;Grabów (2);5106.18
+1004052;Łęczyca (2);5672.49
+1004063;Piątek (3);5576.32
+1004072;Świnice Warckie (2);5672.01
+1004082;Witonia (2);5039.82
+1005000;Powiat łowicki;5738.92
+1005011;Łowicz (1);6405.00
+1005022;Bielawy (2);5276.38
+1005032;Chąśno (2);5492.45
+1005042;Domaniewice (2);5175.26
+1005052;Kiernozia (2);5952.71
+1005062;Kocierzew Południowy (2);5263.87
+1005072;Łowicz (2);5741.15
+1005082;Łyszkowice (2);4965.56
+1005092;Nieborów (2);5079.91
+1005102;Zduny (2);5677.47
+1006000;Powiat łódzki wschodni;5969.19
+1006022;Andrespol (2);5514.60
+1006032;Brójce (2);5579.03
+1006073;Koluszki (3);5393.23
+1006082;Nowosolna (2);7206.33
+1006103;Rzgów (3);7736.97
+1006113;Tuszyn (3);5777.99
+1007000;Powiat opoczyński;5162.58
+1007012;Białaczów (2);5332.36
+1007023;Drzewica (3);4830.92
+1007032;Mniszków (2);5340.59
+1007043;Opoczno (3);4694.46
+1007052;Paradyż (2);7977.95
+1007062;Poświętne (2);5114.68
+1007072;Sławno (2);5500.80
+1007082;Żarnów (2);5652.07
+1008000;Powiat pabianicki;5256.46
+1008011;Konstantynów Łódzki (1);5099.58
+1008021;Pabianice (1);4811.88
+1008032;Dłutów (2);5485.73
+1008042;Dobroń (2);5786.53
+1008052;Ksawerów (2);7025.11
+1008062;Lutomiersk (2);5187.05
+1008072;Pabianice (2);6991.18
+1009000;Powiat pajęczański;6306.31
+1009013;Działoszyn (3);5398.43
+1009022;Kiełczygłów (2);4913.09
+1009032;Nowa Brzeźnica (2);5217.41
+1009043;Pajęczno (3);5158.02
+1009052;Rząśnia (2);11250.54
+1009062;Siemkowice (2);5516.40
+1009072;Strzelce Wielkie (2);5006.43
+1009082;Sulmierzyce (2);10857.72
+1010000;Powiat piotrkowski;5641.69
+1010012;Aleksandrów (2);5609.64
+1010022;Czarnocin (2);5990.79
+1010032;Gorzkowice (2);5052.47
+1010042;Grabica (2);6530.48
+1010052;Łęki Szlacheckie (2);5517.51
+1010062;Moszczenica (2);5422.66
+1010072;Ręczno (2);4824.38
+1010082;Rozprza (2);5036.61
+1010093;Sulejów (3);5440.79
+1010102;Wola Krzysztoporska (2);6040.30
+1010113;Wolbórz (3);6962.58
+1011000;Powiat poddębicki;6590.62
+1011012;Dalików (2);6753.09
+1011022;Pęczniew (2);5321.85
+1011033;Poddębice (3);6617.30
+1011043;Uniejów (3);8022.23
+1011052;Wartkowice (2);6259.02
+1011062;Zadzim (2);5667.38
+1012000;Powiat radomszczański;5481.28
+1012011;Radomsko (1);5261.42
+1012022;Dobryszyce (2);5297.69
+1012032;Gidle (2);4967.83
+1012042;Gomunice (2);5479.94
+1012053;Kamieńsk (3);8583.39
+1012062;Kobiele Wielkie (2);4905.58
+1012072;Kodrąb (2);4959.45
+1012082;Lgota Wielka (2);6102.84
+1012092;Ładzice (2);5133.12
+1012102;Masłowice (2);6085.40
+1012113;Przedbórz (3);5325.42
+1012122;Radomsko (2);5351.07
+1012132;Wielgomłyny (2);5361.07
+1012142;Żytno (2);5396.36
+1013000;Powiat rawski;5619.60
+1013011;Rawa Mazowiecka (1);5895.16
+1013023;Biała Rawska (3);5330.95
+1013032;Cielądz (2);5585.35
+1013042;Rawa Mazowiecka (2);5656.81
+1013052;Regnów (2);5284.90
+1013062;Sadkowice (2);5416.43
+1014000;Powiat sieradzki;5128.68
+1014011;Sieradz (1);4707.77
+1014023;Błaszki (3);5067.27
+1014032;Brąszewice (2);6201.20
+1014042;Brzeźnio (2);5114.97
+1014052;Burzenin (2);5382.97
+1014062;Goszczanów (2);5093.37
+1014072;Klonowa (2);6213.37
+1014082;Sieradz (2);5414.77
+1014093;Warta (3);5246.53
+1014102;Wróblew (2);5657.40
+1014113;Złoczew (3);5360.18
+1015000;Powiat skierniewicki;6286.43
+1015012;Bolimów (2);5923.57
+1015022;Głuchów (2);5931.08
+1015032;Godzianów (2);6808.07
+1015042;Kowiesy (2);6032.15
+1015052;Lipce Reymontowskie (2);6860.13
+1015062;Maków (2);7126.03
+1015072;Nowy Kawęczyn (2);5506.39
+1015082;Skierniewice (2);6468.66
+1015092;Słupia (2);5194.19
+1016000;Powiat tomaszowski;5690.46
+1016011;Tomaszów Mazowiecki (1);5085.03
+1016022;Będków (2);5137.83
+1016032;Budziszewice (2);5365.63
+1016042;Czerniewice (2);6326.29
+1016052;Inowłódz (2);7582.72
+1016062;Lubochnia (2);7307.24
+1016072;Rokiciny (2);5577.52
+1016082;Rzeczyca (2);6115.93
+1016092;Tomaszów Mazowiecki (2);6019.39
+1016102;Ujazd (2);7087.65
+1016112;Żelechlinek (2);6300.00
+1017000;Powiat wieluński;5242.23
+1017012;Biała (2);5773.33
+1017022;Czarnożyły (2);4526.52
+1017032;Konopnica (2);5436.79
+1017042;Mokrsko (2);5536.97
+1017052;Osjaków (2);6301.37
+1017062;Ostrówek (2);5271.14
+1017072;Pątnów (2);5075.36
+1017082;Skomlin (2);5822.99
+1017093;Wieluń (3);4991.04
+1017102;Wierzchlas (2);5229.58
+1018000;Powiat wieruszowski;5415.84
+1018012;Bolesławiec (2);5063.56
+1018022;Czastary (2);5020.79
+1018032;Galewice (2);5656.85
+1018043;Lututów (3);5518.49
+1018052;Łubnice (2);5768.24
+1018062;Sokolniki (2);5964.48
+1018073;Wieruszów (3);5197.73
+1019000;Powiat zduńskowolski;4778.38
+1019011;Zduńska Wola (1);4517.57
+1019023;Szadek (3);4893.38
+1019032;Zapolice (2);5444.62
+1019042;Zduńska Wola (2);5311.44
+1020000;Powiat zgierski;5548.74
+1020011;Głowno (1);4562.56
+1020021;Ozorków (1);5194.08
+1020031;Zgierz (1);5340.25
+1020043;Aleksandrów Łódzki (3);5499.81
+1020052;Głowno (2);5142.33
+1020062;Ozorków (2);5367.97
+1020072;Parzęczew (2);5729.02
+1020083;Stryków (3);8703.61
+1020092;Zgierz (2);5277.02
+1021000;Powiat brzeziński;5401.22
+1021011;Brzeziny (1);5567.60
+1021022;Brzeziny (2);5068.14
+1021032;Dmosin (2);5366.51
+1021042;Jeżów (2);5614.49
+1021052;Rogów (2);5251.17
+1061000;Powiat m.Łódź;7271.77
+1061011;Łódź (1);7271.77
+1062000;Powiat m.Piotrków Trybunalski;7222.27
+1062011;Piotrków Trybunalski (1);7222.27
+1063000;Powiat m.Skierniewice;7647.37
+1063011;Skierniewice (1);7647.37
+1200000;MAŁOPOLSKIE;6390.90
+1201000;Powiat bocheński;5943.54
+1201011;Bochnia (1);5640.41
+1201022;Bochnia (2);5413.81
+1201032;Drwinia (2);7519.34
+1201042;Lipnica Murowana (2);5920.60
+1201052;Łapanów (2);6697.66
+1201063;Nowy Wiśnicz (3);5749.40
+1201072;Rzezawa (2);5759.25
+1201082;Trzciana (2);6902.71
+1201092;Żegocina (2);6440.75
+1202000;Powiat brzeski;5523.43
+1202012;Borzęcin (2);5578.58
+1202023;Brzesko (3);4881.87
+1202033;Czchów (3);5865.28
+1202042;Dębno (2);5222.47
+1202052;Gnojnik (2);7746.53
+1202062;Iwkowa (2);5946.97
+1202072;Szczurowa (2);5866.86
+1203000;Powiat chrzanowski;4849.31
+1203013;Alwernia (3);4909.55
+1203022;Babice (2);5021.23
+1203033;Chrzanów (3);4960.31
+1203043;Libiąż (3);4427.51
+1203053;Trzebinia (3);4905.19
+1204000;Powiat dąbrowski;5075.43
+1204012;Bolesław (2);4310.31
+1204023;Dąbrowa Tarnowska (3);4859.58
+1204032;Gręboszów (2);5526.27
+1204042;Mędrzechów (2);5607.79
+1204052;Olesno (2);5014.88
+1204062;Radgoszcz (2);5376.47
+1204073;Szczucin (3);5189.84
+1205000;Powiat gorlicki;6298.50
+1205011;Gorlice (1);5306.94
+1205023;Biecz (3);5505.92
+1205033;Bobowa (3);7473.96
+1205042;Gorlice (2);5391.95
+1205052;Lipinki (2);6063.52
+1205062;Łużna (2);6181.47
+1205072;Moszczenica (2);9433.75
+1205082;Ropa (2);6808.92
+1205092;Sękowa (2);10565.91
+1205102;Uście Gorlickie (2);7380.72
+1206000;Powiat krakowski;6221.35
+1206012;Czernichów (2);5739.52
+1206022;Igołomia-Wawrzeńczyce (2);5765.02
+1206032;Iwanowice (2);5603.94
+1206042;Jerzmanowice-Przeginia (2);6814.71
+1206052;Kocmyrzów-Luborzyca (2);6608.06
+1206063;Krzeszowice (3);5060.20
+1206072;Liszki (2);5678.60
+1206082;Michałowice (2);6264.38
+1206092;Mogilany (2);6511.13
+1206103;Skała (3);5771.28
+1206113;Skawina (3);6250.42
+1206123;Słomniki (3);6622.45
+1206132;Sułoszowa (2);6019.78
+1206143;Świątniki Górne (3);7042.80
+1206152;Wielka Wieś (2);7459.76
+1206162;Zabierzów (2);6417.09
+1206172;Zielonki (2);6878.31
+1207000;Powiat limanowski;6019.70
+1207011;Limanowa (1);7155.92
+1207021;Mszana Dolna (1);5390.27
+1207032;Dobra (2);5933.33
+1207042;Jodłownik (2);5767.08
+1207052;Kamienica (2);5920.72
+1207062;Laskowa (2);6370.82
+1207072;Limanowa (2);5777.55
+1207082;Łukowica (2);6477.41
+1207092;Mszana Dolna (2);5443.97
+1207102;Niedźwiedź (2);5988.33
+1207112;Słopnice (2);6575.61
+1207122;Tymbark (2);5548.46
+1208000;Powiat miechowski;5566.99
+1208012;Charsznica (2);5556.33
+1208022;Gołcza (2);5008.22
+1208032;Kozłów (2);5003.31
+1208042;Książ Wielki (2);6813.21
+1208053;Miechów (3);5526.85
+1208062;Racławice (2);6295.68
+1208072;Słaboszów (2);5196.84
+1209000;Powiat myślenicki;5894.40
+1209013;Dobczyce (3);6879.99
+1209022;Lubień (2);5207.83
+1209033;Myślenice (3);5983.90
+1209042;Pcim (2);5583.29
+1209052;Raciechowice (2);6253.09
+1209062;Siepraw (2);5849.78
+1209073;Sułkowice (3);4938.42
+1209082;Tokarnia (2);5819.77
+1209092;Wiśniowa (2);6491.82
+1210000;Powiat nowosądecki;6216.21
+1210011;Grybów (1);6468.14
+1210022;Chełmiec (2);6106.13
+1210032;Gródek nad Dunajcem (2);5923.39
+1210042;Grybów (2);5979.83
+1210052;Kamionka Wielka (2);6268.06
+1210062;Korzenna (2);6221.37
+1210073;Krynica-Zdrój (3);7524.92
+1210082;Łabowa (2);5864.25
+1210092;Łącko (2);6783.92
+1210102;Łososina Dolna (2);5429.77
+1210113;Muszyna (3);7248.03
+1210122;Nawojowa (2);5873.26
+1210133;Piwniczna-Zdrój (3);5757.23
+1210142;Podegrodzie (2);5636.12
+1210152;Rytro (2);5657.86
+1210163;Stary Sącz (3);6019.91
+1211000;Powiat nowotarski;5688.97
+1211011;Nowy Targ (1);5498.71
+1211023;Szczawnica (3);5772.85
+1211032;Czarny Dunajec (2);5298.67
+1211042;Czorsztyn (2);5953.58
+1211052;Jabłonka (2);5609.30
+1211062;Krościenko nad Dunajcem (2);7097.44
+1211072;Lipnica Wielka (2);5941.10
+1211082;Łapsze Niżne (2);5867.99
+1211092;Nowy Targ (2);6012.20
+1211102;Ochotnica Dolna (2);7058.81
+1211112;Raba Wyżna (2);5064.57
+1211123;Rabka-Zdrój (3);5194.03
+1211132;Spytkowice (2);5545.70
+1211142;Szaflary (2);5704.26
+1212000;Powiat olkuski;5376.83
+1212011;Bukowno (1);5784.68
+1212032;Bolesław (2);7258.74
+1212042;Klucze (2);5633.20
+1212053;Olkusz (3);5077.28
+1212062;Trzyciąż (2);5223.58
+1212073;Wolbrom (3);5070.71
+1213000;Powiat oświęcimski;5593.17
+1213011;Oświęcim (1);6138.91
+1213023;Brzeszcze (3);5882.07
+1213033;Chełmek (3);5097.88
+1213043;Kęty (3);4857.68
+1213052;Osiek (2);5087.74
+1213062;Oświęcim (2);5170.53
+1213072;Polanka Wielka (2);6185.08
+1213082;Przeciszów (2);5810.89
+1213093;Zator (3);6963.85
+1214000;Powiat proszowicki;5787.72
+1214012;Koniusza (2);5189.98
+1214023;Koszyce (3);4806.40
+1214033;Nowe Brzesko (3);5918.29
+1214042;Pałecznica (2);9167.68
+1214053;Proszowice (3);5771.91
+1214062;Radziemice (2);5246.47
+1215000;Powiat suski;5580.13
+1215011;Jordanów (1);8720.66
+1215021;Sucha Beskidzka (1);5978.94
+1215032;Budzów (2);5493.77
+1215042;Bystra-Sidzina (2);6410.16
+1215052;Jordanów (2);5554.13
+1215063;Maków Podhalański (3);4890.12
+1215072;Stryszawa (2);4971.69
+1215082;Zawoja (2);5419.52
+1215092;Zembrzyce (2);4624.76
+1216000;Powiat tarnowski;5262.33
+1216013;Ciężkowice (3);7122.75
+1216022;Gromnik (2);5025.35
+1216032;Lisia Góra (2);5268.40
+1216042;Pleśna (2);4753.97
+1216053;Radłów (3);5105.25
+1216063;Ryglice (3);5551.59
+1216072;Rzepiennik Strzyżewski (2);6335.05
+1216082;Skrzyszów (2);5005.11
+1216092;Tarnów (2);4787.22
+1216103;Tuchów (3);5141.00
+1216112;Wierzchosławice (2);4631.10
+1216122;Wietrzychowice (2);3993.71
+1216133;Wojnicz (3);5426.67
+1216143;Zakliczyn (3);6153.82
+1216153;Żabno (3);4697.59
+1216162;Szerzyny (2);5972.47
+1217000;Powiat tatrzański;6404.19
+1217011;Zakopane (1);7017.74
+1217022;Biały Dunajec (2);5003.73
+1217032;Bukowina Tatrzańska (2);6036.73
+1217042;Kościelisko (2);6789.25
+1217052;Poronin (2);5979.80
+1218000;Powiat wadowicki;5460.90
+1218013;Andrychów (3);4869.40
+1218022;Brzeźnica (2);5671.44
+1218033;Kalwaria Zebrzydowska (3);5484.76
+1218042;Lanckorona (2);5852.84
+1218052;Mucharz (2);6005.46
+1218062;Spytkowice (2);5795.93
+1218072;Stryszów (2);6713.73
+1218082;Tomice (2);5032.13
+1218093;Wadowice (3);5726.14
+1218102;Wieprz (2);5439.40
+1219000;Powiat wielicki;6487.58
+1219012;Biskupice (2);5952.36
+1219022;Gdów (2);5392.45
+1219032;Kłaj (2);6220.04
+1219043;Niepołomice (3);7638.10
+1219053;Wieliczka (3);6402.51
+1261000;Powiat m.Kraków;7937.37
+1261011;Kraków (1);7937.37
+1262000;Powiat m.Nowy Sącz;7970.70
+1262011;Nowy Sącz (1);7970.70
+1263000;Powiat m.Tarnów;7612.84
+1263011;Tarnów (1);7612.84
+1400000;MAZOWIECKIE;7656.00
+1401000;Powiat białobrzeski;5962.93
+1401013;Białobrzegi (3);5800.16
+1401022;Promna (2);5480.87
+1401032;Radzanów (2);5788.11
+1401042;Stara Błotnica (2);6939.43
+1401052;Stromiec (2);6035.34
+1401063;Wyśmierzyce (3);5755.59
+1402000;Powiat ciechanowski;5590.21
+1402011;Ciechanów (1);5296.35
+1402022;Ciechanów (2);5777.30
+1402033;Glinojeck (3);6293.85
+1402042;Gołymin-Ośrodek (2);5605.35
+1402052;Grudusk (2);5861.26
+1402062;Ojrzeń (2);6734.98
+1402072;Opinogóra Górna (2);5387.26
+1402082;Regimin (2);6362.09
+1402092;Sońsk (2);5272.72
+1403000;Powiat garwoliński;5702.71
+1403011;Garwolin (1);5487.32
+1403021;Łaskarzew (1);6312.12
+1403032;Borowie (2);6041.06
+1403042;Garwolin (2);5834.31
+1403052;Górzno (2);5931.12
+1403062;Łaskarzew (2);5597.88
+1403072;Maciejowice (2);5717.11
+1403082;Miastków Kościelny (2);6250.42
+1403092;Parysów (2);5843.26
+1403103;Pilawa (3);5415.83
+1403112;Sobolew (2);5679.61
+1403122;Trojanów (2);5896.24
+1403132;Wilga (2);4933.80
+1403143;Żelechów (3);5584.83
+1404000;Powiat gostyniński;5009.19
+1404011;Gostynin (1);4789.09
+1404022;Gostynin (2);5259.27
+1404032;Pacyna (2);4853.26
+1404043;Sanniki (3);5068.72
+1404052;Szczawin Kościelny (2);5267.85
+1405000;Powiat grodziski;7275.20
+1405011;Milanówek (1);6006.19
+1405021;Podkowa Leśna (1);9821.06
+1405032;Baranów (2);5667.43
+1405043;Grodzisk Mazowiecki (3);7471.99
+1405052;Jaktorów (2);8195.79
+1405062;Żabia Wola (2);7109.45
+1406000;Powiat grójecki;5578.32
+1406012;Belsk Duży (2);6166.02
+1406022;Błędów (2);5376.66
+1406032;Chynów (2);5609.23
+1406042;Goszczyn (2);5833.11
+1406053;Grójec (3);5566.72
+1406062;Jasieniec (2);5901.24
+1406073;Mogielnica (3);5152.04
+1406083;Nowe Miasto nad Pilicą (3);5839.24
+1406092;Pniewy (2);6444.43
+1406113;Warka (3);5199.86
+1407000;Powiat kozienicki;6249.47
+1407012;Garbatka-Letnisko (2);5198.36
+1407022;Głowaczów (2);5186.41
+1407032;Gniewoszów (2);5137.84
+1407042;Grabów nad Pilicą (2);5767.28
+1407053;Kozienice (3);7189.65
+1407062;Magnuszew (2);5706.76
+1407072;Sieciechów (2);4988.58
+1408000;Powiat legionowski;6611.40
+1408011;Legionowo (1);5680.65
+1408022;Jabłonna (2);7885.17
+1408032;Nieporęt (2);8002.22
+1408043;Serock (3);6376.21
+1408052;Wieliszew (2);7116.16
+1409000;Powiat lipski;5310.02
+1409012;Chotcza (2);5777.35
+1409022;Ciepielów (2);6007.14
+1409033;Lipsko (3);4423.82
+1409042;Rzeczniów (2);6272.16
+1409052;Sienno (2);5829.76
+1410000;Powiat łosicki;5292.79
+1410012;Huszlew (2);6643.13
+1410023;Łosice (3);4774.33
+1410032;Olszanka (2);5295.91
+1410042;Platerów (2);5049.34
+1410052;Sarnaki (2);5139.26
+1410062;Stara Kornica (2);6070.27
+1411000;Powiat makowski;5948.10
+1411011;Maków Mazowiecki (1);6026.85
+1411022;Czerwonka (2);5613.59
+1411032;Karniewo (2);5343.81
+1411042;Krasnosielc (2);5728.81
+1411052;Młynarze (2);6689.88
+1411062;Płoniawy-Bramura (2);5510.14
+1411073;Różan (3);7754.96
+1411082;Rzewnie (2);6238.36
+1411092;Sypniewo (2);5825.16
+1411102;Szelków (2);5209.50
+1412000;Powiat miński;6238.70
+1412011;Mińsk Mazowiecki (1);5605.87
+1412042;Cegłów (2);5950.79
+1412052;Dębe Wielkie (2);5606.62
+1412062;Dobre (2);6307.10
+1412073;Halinów (3);7525.38
+1412082;Jakubów (2);5925.25
+1412093;Kałuszyn (3);5496.10
+1412102;Latowicz (2);6760.23
+1412112;Mińsk Mazowiecki (2);5596.69
+1412123;Mrozy (3);6679.07
+1412132;Siennica (2);6153.99
+1412142;Stanisławów (2);6036.42
+1412151;Sulejówek (1);7447.82
+1413000;Powiat mławski;5885.43
+1413011;Mława (1);5846.17
+1413022;Dzierzgowo (2);7067.17
+1413032;Lipowiec Kościelny (2);5098.00
+1413042;Radzanów (2);6480.67
+1413052;Strzegowo (2);6145.16
+1413062;Stupsk (2);5333.12
+1413072;Szreńsk (2);5612.13
+1413082;Szydłowo (2);5136.08
+1413092;Wieczfnia Kościelna (2);6481.11
+1413102;Wiśniewo (2);6329.29
+1414000;Powiat nowodworski;6148.77
+1414011;Nowy Dwór Mazowiecki (1);6324.22
+1414022;Czosnów (2);7532.36
+1414032;Leoncin (2);5463.30
+1414043;Nasielsk (3);5322.70
+1414052;Pomiechówek (2);6257.61
+1414063;Zakroczym (3);6232.35
+1415000;Powiat ostrołęcki;5979.32
+1415012;Baranowo (2);5464.11
+1415022;Czarnia (2);9276.33
+1415032;Czerwin (2);5393.83
+1415042;Goworowo (2);5219.93
+1415052;Kadzidło (2);5614.07
+1415062;Lelis (2);5250.10
+1415072;Łyse (2);7465.82
+1415083;Myszyniec (3);7097.10
+1415092;Olszewo-Borki (2);5719.12
+1415102;Rzekuń (2);5526.05
+1415112;Troszyn (2);5815.17
+1416000;Powiat ostrowski;5754.68
+1416011;Ostrów Mazowiecka (1);5980.21
+1416022;Andrzejewo (2);5828.80
+1416032;Boguty-Pianki (2);6255.03
+1416043;Brok (3);5381.62
+1416052;Małkinia Górna (2);5075.70
+1416062;Nur (2);6782.96
+1416072;Ostrów Mazowiecka (2);5324.20
+1416082;Stary Lubotyń (2);6155.20
+1416092;Szulborze Wielkie (2);5609.13
+1416102;Wąsewo (2);5829.17
+1416112;Zaręby Kościelne (2);6736.49
+1417000;Powiat otwocki;6246.39
+1417011;Józefów (1);7189.70
+1417021;Otwock (1);5764.01
+1417032;Celestynów (2);5913.69
+1417043;Karczew (3);6021.52
+1417052;Kołbiel (2);5576.34
+1417062;Osieck (2);5794.12
+1417072;Sobienie-Jeziory (2);4876.62
+1417082;Wiązowna (2);8159.43
+1418000;Powiat piaseczyński;7433.56
+1418013;Góra Kalwaria (3);6160.69
+1418023;Konstancin-Jeziorna (3);7717.57
+1418032;Lesznowola (2);9620.43
+1418043;Piaseczno (3);7318.83
+1418052;Prażmów (2);5811.92
+1418063;Tarczyn (3);6749.18
+1419000;Powiat płocki;5746.66
+1419012;Bielsk (2);5263.22
+1419022;Bodzanów (2);5278.31
+1419032;Brudzeń Duży (2);5121.11
+1419042;Bulkowo (2);5811.66
+1419053;Drobin (3);6218.50
+1419063;Gąbin (3);5545.22
+1419072;Łąck (2);5283.12
+1419082;Mała Wieś (2);5633.85
+1419092;Nowy Duninów (2);5145.35
+1419102;Radzanowo (2);4889.34
+1419112;Słubice (2);5374.72
+1419122;Słupno (2);8193.25
+1419132;Stara Biała (2);6598.66
+1419142;Staroźreby (2);5496.75
+1419153;Wyszogród (3);5366.78
+1420000;Powiat płoński;5935.59
+1420011;Płońsk (1);6823.43
+1420021;Raciąż (1);5928.10
+1420032;Baboszewo (2);5570.44
+1420043;Czerwińsk nad Wisłą (3);5558.43
+1420052;Dzierzążnia (2);5375.16
+1420062;Joniec (2);5626.90
+1420072;Naruszewo (2);5402.94
+1420082;Nowe Miasto (2);6918.85
+1420092;Płońsk (2);5219.25
+1420102;Raciąż (2);5419.00
+1420122;Załuski (2);6318.90
+1421000;Powiat pruszkowski;7167.72
+1421011;Piastów (1);5852.82
+1421021;Pruszków (1);6143.06
+1421033;Brwinów (3);7179.18
+1421042;Michałowice (2);9563.51
+1421052;Nadarzyn (2);9645.88
+1421062;Raszyn (2);7813.66
+1422000;Powiat przasnyski;5811.05
+1422011;Przasnysz (1);5121.08
+1422023;Chorzele (3);6269.68
+1422032;Czernice Borowe (2);5538.00
+1422042;Jednorożec (2);6112.66
+1422052;Krasne (2);5406.81
+1422062;Krzynowłoga Mała (2);6668.58
+1422072;Przasnysz (2);6450.29
+1423000;Powiat przysuski;5127.62
+1423012;Borkowice (2);5055.14
+1423022;Gielniów (2);4739.66
+1423032;Klwów (2);5649.11
+1423042;Odrzywół (2);6712.40
+1423052;Potworów (2);5698.54
+1423063;Przysucha (3);4452.90
+1423072;Rusinów (2);4910.59
+1423082;Wieniawa (2);5292.99
+1424000;Powiat pułtuski;5982.44
+1424012;Gzy (2);6260.54
+1424022;Obryte (2);5936.03
+1424032;Pokrzywnica (2);6975.73
+1424043;Pułtusk (3);5889.98
+1424052;Świercze (2);5557.76
+1424062;Winnica (2);6055.23
+1424072;Zatory (2);5600.50
+1425000;Powiat radomski;5306.44
+1425011;Pionki (1);5344.58
+1425022;Gózd (2);6271.11
+1425033;Iłża (3);4864.41
+1425042;Jastrzębia (2);5643.13
+1425052;Jedlińsk (2);5390.74
+1425062;Jedlnia-Letnisko (2);5135.86
+1425072;Kowala (2);4957.70
+1425082;Pionki (2);4983.56
+1425092;Przytyk (2);5206.03
+1425103;Skaryszew (3);5505.80
+1425112;Wierzbica (2);5249.95
+1425122;Wolanów (2);5197.98
+1425132;Zakrzew (2);5490.67
+1426000;Powiat siedlecki;5698.94
+1426012;Domanice (2);6011.21
+1426022;Korczew (2);6124.92
+1426032;Kotuń (2);5547.10
+1426042;Mokobody (2);5453.54
+1426053;Mordy (3);4902.36
+1426062;Paprotnia (2);7238.49
+1426072;Przesmyki (2);5529.36
+1426082;Siedlce (2);5576.74
+1426092;Skórzec (2);5896.81
+1426102;Suchożebry (2);5717.08
+1426112;Wiśniew (2);5726.91
+1426122;Wodynie (2);5527.13
+1426132;Zbuczyn (2);5992.61
+1427000;Powiat sierpecki;5395.84
+1427011;Sierpc (1);4803.64
+1427022;Gozdowo (2);5968.54
+1427032;Mochowo (2);5353.24
+1427042;Rościszewo (2);5658.86
+1427052;Sierpc (2);5225.14
+1427062;Szczutowo (2);6375.99
+1427072;Zawidz (2);5903.96
+1428000;Powiat sochaczewski;5855.05
+1428011;Sochaczew (1);5536.31
+1428022;Brochów (2);5251.93
+1428032;Iłów (2);5905.55
+1428042;Młodzieszyn (2);5461.09
+1428052;Nowa Sucha (2);6065.95
+1428062;Rybno (2);6403.71
+1428072;Sochaczew (2);6667.31
+1428082;Teresin (2);6180.49
+1429000;Powiat sokołowski;5575.51
+1429011;Sokołów Podlaski (1);5572.77
+1429022;Bielany (2);8013.73
+1429032;Ceranów (2);5105.89
+1429042;Jabłonna Lacka (2);5199.66
+1429053;Kosów Lacki (3);4962.97
+1429062;Repki (2);6208.65
+1429072;Sabnie (2);5521.36
+1429082;Sokołów Podlaski (2);5080.77
+1429092;Sterdyń (2);4940.30
+1430000;Powiat szydłowiecki;4903.38
+1430012;Chlewiska (2);4834.11
+1430022;Jastrząb (2);5529.02
+1430032;Mirów (2);5701.17
+1430042;Orońsko (2);5139.55
+1430053;Szydłowiec (3);4508.95
+1432000;Powiat warszawski zachodni;7953.64
+1432013;Błonie (3);7435.37
+1432022;Izabelin (2);7534.24
+1432032;Kampinos (2);8213.05
+1432042;Leszno (2);6690.36
+1432053;Łomianki (3);7498.33
+1432063;Ożarów Mazowiecki (3);9542.91
+1432072;Stare Babice (2);7893.48
+1433000;Powiat węgrowski;5755.03
+1433011;Węgrów (1);6062.94
+1433022;Grębków (2);5473.19
+1433032;Korytnica (2);5478.84
+1433042;Liw (2);6408.94
+1433053;Łochów (3);5690.16
+1433062;Miedzna (2);5525.63
+1433072;Sadowne (2);5423.27
+1433082;Stoczek (2);5271.53
+1433092;Wierzbno (2);6000.09
+1434000;Powiat wołomiński;6170.03
+1434011;Kobyłka (1);5948.57
+1434021;Marki (1);6376.48
+1434031;Ząbki (1);6911.43
+1434041;Zielonka (1);6011.92
+1434052;Dąbrówka (2);6951.61
+1434062;Jadów (2);5262.44
+1434072;Klembów (2);6269.37
+1434082;Poświętne (2);7145.84
+1434093;Radzymin (3);6939.77
+1434102;Strachówka (2);6366.94
+1434113;Tłuszcz (3);5377.35
+1434123;Wołomin (3);5393.57
+1435000;Powiat wyszkowski;5687.70
+1435012;Brańszczyk (2);5872.76
+1435022;Długosiodło (2);6110.95
+1435032;Rząśnik (2);5753.77
+1435042;Somianka (2);6842.41
+1435053;Wyszków (3);5353.93
+1435062;Zabrodzie (2);5942.36
+1436000;Powiat zwoleński;5202.73
+1436012;Kazanów (2);5763.98
+1436022;Policzna (2);4750.53
+1436032;Przyłęk (2);5675.49
+1436042;Tczów (2);5706.32
+1436053;Zwoleń (3);4841.48
+1437000;Powiat żuromiński;5110.79
+1437013;Bieżuń (3);5206.14
+1437022;Kuczbork-Osada (2);5044.04
+1437033;Lubowidz (3);5555.79
+1437042;Lutocin (2);5259.27
+1437052;Siemiątkowo (2);5957.15
+1437063;Żuromin (3);4638.90
+1438000;Powiat żyrardowski;6411.64
+1438011;Żyrardów (1);6298.54
+1438023;Mszczonów (3);7805.99
+1438032;Puszcza Mariańska (2);5297.80
+1438042;Radziejowice (2);7190.33
+1461000;Powiat m.Ostrołęka;7634.92
+1461011;Ostrołęka (1);7634.92
+1462000;Powiat m.Płock;9411.86
+1462011;Płock (1);9411.86
+1463000;Powiat m.Radom;6954.93
+1463011;Radom (1);6954.93
+1464000;Powiat m.Siedlce;7153.13
+1464011;Siedlce (1);7153.13
+1465000;Powiat m. st. Warszawa;10346.74
+1465011;M.st.Warszawa od 2002 (1);10346.74
+1600000;OPOLSKIE;5760.86
+1601000;Powiat brzeski;5147.87
+1601011;Brzeg (1);4995.22
+1601022;Skarbimierz (2);6453.42
+1601033;Grodków (3);5239.06
+1601043;Lewin Brzeski (3);4875.60
+1601052;Lubsza (2);4784.04
+1601062;Olszanka (2);5072.49
+1602000;Powiat głubczycki;5049.17
+1602013;Baborów (3);5263.58
+1602022;Branice (2);5219.62
+1602033;Głubczyce (3);4952.86
+1602043;Kietrz (3);5027.90
+1603000;Powiat kędzierzyńsko-kozielski;4992.04
+1603011;Kędzierzyn-Koźle (1);4998.71
+1603022;Bierawa (2);4972.61
+1603032;Cisek (2);4841.76
+1603042;Pawłowiczki (2);4933.43
+1603052;Polska Cerekiew (2);4728.79
+1603062;Reńska Wieś (2);5242.53
+1604000;Powiat kluczborski;5095.67
+1604013;Byczyna (3);5813.79
+1604023;Kluczbork (3);5050.20
+1604032;Lasowice Wielkie (2);4745.49
+1604043;Wołczyn (3);4901.44
+1605000;Powiat krapkowicki;5267.03
+1605013;Gogolin (3);6619.80
+1605023;Krapkowice (3);5232.38
+1605032;Strzeleczki (2);5269.85
+1605042;Walce (2);5106.32
+1605053;Zdzieszowice (3);4273.94
+1606000;Powiat namysłowski;5366.55
+1606012;Domaszowice (2);5468.05
+1606023;Namysłów (3);5037.36
+1606032;Pokój (2);6029.50
+1606042;Świerczów (2);5446.87
+1606052;Wilków (2);6411.69
+1607000;Powiat nyski;5373.45
+1607013;Głuchołazy (3);4598.54
+1607022;Kamiennik (2);5655.31
+1607033;Korfantów (3);5184.60
+1607042;Łambinowice (2);4913.31
+1607053;Nysa (3);5877.43
+1607063;Otmuchów (3);5490.45
+1607073;Paczków (3);4907.82
+1607082;Pakosławice (2);4899.76
+1607092;Skoroszyce (2);5302.44
+1608000;Powiat oleski;5010.90
+1608013;Dobrodzień (3);5265.92
+1608023;Gorzów Śląski (3);4784.07
+1608033;Olesno (3);4736.96
+1608043;Praszka (3);4957.21
+1608052;Radłów (2);5369.19
+1608062;Rudniki (2);5367.41
+1608072;Zębowice (2);5081.56
+1609000;Powiat opolski;4996.55
+1609012;Chrząstowice (2);4958.33
+1609022;Dąbrowa (2);4878.24
+1609032;Dobrzeń Wielki (2);6111.14
+1609042;Komprachcice (2);4782.55
+1609052;Łubniany (2);5307.55
+1609062;Murów (2);4672.27
+1609073;Niemodlin (3);5236.28
+1609083;Ozimek (3);4464.49
+1609092;Popielów (2);5252.92
+1609103;Prószków (3);5370.62
+1609112;Tarnów Opolski (2);4547.43
+1609123;Tułowice (3);4839.47
+1609132;Turawa (2);4812.39
+1610000;Powiat prudnicki;4960.54
+1610013;Biała (3);5349.18
+1610023;Głogówek (3);4883.14
+1610032;Lubrza (2);5321.84
+1610043;Prudnik (3);4788.30
+1611000;Powiat strzelecki;4964.04
+1611012;Izbicko (2);4459.85
+1611022;Jemielnica (2);4704.27
+1611033;Kolonowskie (3);4556.41
+1611043;Leśnica (3);5650.71
+1611053;Strzelce Opolskie (3);4926.42
+1611063;Ujazd (3);6311.14
+1611073;Zawadzkie (3);4460.12
+1661000;Powiat m.Opole;10050.99
+1661011;Opole (1);10050.99
+1800000;PODKARPACKIE;6055.73
+1801000;Powiat bieszczadzki;5653.23
+1801032;Czarna (2);5837.11
+1801052;Lutowiska (2);6457.88
+1801083;Ustrzyki Dolne (3);5531.12
+1802000;Powiat brzozowski;5504.03
+1802013;Brzozów (3);5266.03
+1802022;Domaradz (2);5544.40
+1802032;Dydnia (2);6195.00
+1802042;Haczów (2);5346.53
+1802052;Jasienica Rosielna (2);6159.10
+1802062;Nozdrzec (2);5115.62
+1803000;Powiat dębicki;5332.30
+1803011;Dębica (1);5481.63
+1803023;Brzostek (3);5096.43
+1803032;Czarna (2);4842.84
+1803042;Dębica (2);5452.88
+1803052;Jodłowa (2);6263.64
+1803063;Pilzno (3);5089.87
+1803072;Żyraków (2);5265.28
+1804000;Powiat jarosławski;5298.21
+1804011;Jarosław (1);5223.11
+1804021;Radymno (1);5344.49
+1804032;Chłopice (2);5705.24
+1804042;Jarosław (2);4675.25
+1804052;Laszki (2);5622.93
+1804062;Pawłosiów (2);4759.58
+1804073;Pruchnik (3);5772.75
+1804082;Radymno (2);6180.18
+1804092;Rokietnica (2);5562.83
+1804102;Roźwienica (2);5450.15
+1804112;Wiązownica (2);4796.45
+1805000;Powiat jasielski;5344.86
+1805011;Jasło (1);5674.66
+1805022;Brzyska (2);5173.43
+1805032;Dębowiec (2);5488.07
+1805042;Jasło (2);4918.39
+1805053;Kołaczyce (3);5486.88
+1805062;Krempna (2);5593.31
+1805072;Nowy Żmigród (2);5110.41
+1805082;Osiek Jasielski (2);5188.69
+1805092;Skołyszyn (2);5244.46
+1805112;Tarnowiec (2);5108.12
+1806000;Powiat kolbuszowski;5570.23
+1806012;Cmolas (2);5036.93
+1806023;Kolbuszowa (3);5820.40
+1806032;Majdan Królewski (2);5215.51
+1806042;Niwiska (2);6064.27
+1806052;Raniżów (2);5294.30
+1806062;Dzikowiec (2);5655.40
+1807000;Powiat krośnieński;5715.66
+1807012;Chorkówka (2);5304.12
+1807023;Dukla (3);5834.22
+1807033;Iwonicz-Zdrój (3);5129.42
+1807043;Jedlicze (3);6149.06
+1807052;Korczyna (2);5797.56
+1807062;Krościenko Wyżne (2);5046.18
+1807072;Miejsce Piastowe (2);5195.17
+1807083;Rymanów (3);6131.74
+1807092;Wojaszówka (2);6025.65
+1807102;Jaśliska (2);7524.35
+1808000;Powiat leżajski;5384.64
+1808011;Leżajsk (1);4815.14
+1808022;Grodzisko Dolne (2);5164.74
+1808032;Kuryłówka (2);6085.89
+1808042;Leżajsk (2);5774.37
+1808053;Nowa Sarzyna (3);5277.24
+1809000;Powiat lubaczowski;5999.50
+1809011;Lubaczów (1);5637.23
+1809023;Cieszanów (3);5342.23
+1809032;Horyniec-Zdrój (2);6133.75
+1809042;Lubaczów (2);6040.56
+1809053;Narol (3);6324.66
+1809063;Oleszyce (3);5480.45
+1809072;Stary Dzików (2);8070.62
+1809082;Wielkie Oczy (2);6036.78
+1810000;Powiat łańcucki;5740.83
+1810011;Łańcut (1);6176.08
+1810022;Białobrzegi (2);5423.13
+1810032;Czarna (2);5846.84
+1810042;Łańcut (2);5587.92
+1810052;Markowa (2);5617.19
+1810062;Rakszawa (2);5362.03
+1810072;Żołynia (2);5852.10
+1811000;Powiat mielecki;5969.32
+1811011;Mielec (1);6179.74
+1811022;Borowa (2);4990.48
+1811032;Czermin (2);5440.94
+1811042;Gawłuszowice (2);4983.94
+1811052;Mielec (2);5745.13
+1811062;Padew Narodowa (2);4935.81
+1811073;Przecław (3);5646.86
+1811083;Radomyśl Wielki (3);6048.73
+1811092;Tuszów Narodowy (2);7322.32
+1811102;Wadowice Górne (2);5879.45
+1812000;Powiat niżański;5891.58
+1812012;Harasiuki (2);6472.88
+1812022;Jarocin (2);7432.03
+1812032;Jeżowe (2);7801.62
+1812042;Krzeszów (2);7110.75
+1812053;Nisko (3);5220.66
+1812063;Rudnik nad Sanem (3);4340.08
+1812073;Ulanów (3);5218.89
+1813000;Powiat przemyski;5640.35
+1813012;Bircza (2);6022.16
+1813032;Fredropol (2);6064.14
+1813042;Krasiczyn (2);5245.73
+1813052;Krzywcza (2);6562.52
+1813062;Medyka (2);5189.32
+1813072;Orły (2);5682.95
+1813082;Przemyśl (2);5292.95
+1813092;Stubno (2);6375.69
+1813102;Żurawica (2);5254.97
+1814000;Powiat przeworski;5610.97
+1814011;Przeworsk (1);5142.80
+1814022;Adamówka (2);6297.59
+1814032;Gać (2);5814.11
+1814042;Jawornik Polski (2);7962.49
+1814053;Kańczuga (3);5191.39
+1814062;Przeworsk (2);5169.59
+1814073;Sieniawa (3);5391.50
+1814082;Tryńcza (2);6108.93
+1814092;Zarzecze (2);5887.77
+1815000;Powiat ropczycko-sędziszowski;5832.49
+1815012;Iwierzyce (2);6122.20
+1815022;Ostrów (2);9790.98
+1815033;Ropczyce (3);5296.05
+1815043;Sędziszów Małopolski (3);5153.17
+1815052;Wielopole Skrzyńskie (2);5781.16
+1816000;Powiat rzeszowski;5986.89
+1816011;Dynów (1);6081.38
+1816023;Błażowa (3);5150.40
+1816033;Boguchwała (3);5669.09
+1816042;Chmielnik (2);6101.84
+1816052;Dynów (2);5559.70
+1816063;Głogów Małopolski (3);6656.60
+1816072;Hyżne (2);6716.65
+1816082;Kamień (2);6035.72
+1816092;Krasne (2);5846.63
+1816102;Lubenia (2);5790.85
+1816113;Sokołów Małopolski (3);5867.48
+1816122;Świlcza (2);5466.10
+1816132;Trzebownisko (2);6597.48
+1816143;Tyczyn (3);5817.45
+1817000;Powiat sanocki;5584.02
+1817011;Sanok (1);5263.09
+1817022;Besko (2);6162.76
+1817032;Bukowsko (2);6537.37
+1817042;Komańcza (2);5335.15
+1817052;Sanok (2);5623.46
+1817062;Tyrawa Wołoska (2);7252.10
+1817073;Zagórz (3);5956.74
+1817082;Zarszyn (2);5188.29
+1818000;Powiat stalowowolski;5542.72
+1818011;Stalowa Wola (1);5683.64
+1818022;Bojanów (2);5833.03
+1818032;Pysznica (2);4827.47
+1818042;Radomyśl nad Sanem (2);5053.40
+1818053;Zaklików (3);5802.44
+1818062;Zaleszany (2);5426.71
+1819000;Powiat strzyżowski;5245.49
+1819012;Czudec (2);5448.71
+1819022;Frysztak (2);4770.87
+1819032;Niebylec (2);5142.35
+1819043;Strzyżów (3);5499.57
+1819052;Wiśniowa (2);5040.09
+1820000;Powiat tarnobrzeski;5209.78
+1820013;Baranów Sandomierski (3);5881.70
+1820022;Gorzyce (2);4841.75
+1820032;Grębów (2);5237.07
+1820043;Nowa Dęba (3);5021.28
+1821000;Powiat leski;7685.30
+1821012;Baligród (2);7769.13
+1821022;Cisna (2);8125.47
+1821033;Lesko (3);5559.50
+1821042;Olszanica (2);7232.09
+1821052;Solina (2);12417.71
+1861000;Powiat m.Krosno;8920.11
+1861011;Krosno (1);8920.11
+1862000;Powiat m.Przemyśl;7298.13
+1862011;Przemyśl (1);7298.13
+1863000;Powiat m.Rzeszów;8317.82
+1863011;Rzeszów (1);8317.82
+1864000;Powiat m.Tarnobrzeg;7596.78
+1864011;Tarnobrzeg (1);7596.78
+2000000;PODLASKIE;6317.10
+2001000;Powiat augustowski;5480.02
+2001011;Augustów (1);5631.84
+2001022;Augustów (2);5378.08
+2001032;Bargłów Kościelny (2);5460.01
+2001043;Lipsk (3);4845.08
+2001052;Nowinka (2);5615.18
+2001062;Płaska (2);5828.97
+2001072;Sztabin (2);5105.03
+2002000;Powiat białostocki;5452.97
+2002013;Choroszcz (3);5016.70
+2002023;Czarna Białostocka (3);5113.16
+2002032;Dobrzyniewo Duże (2);5740.04
+2002042;Gródek (2);5835.94
+2002052;Juchnowiec Kościelny (2);5904.12
+2002063;Łapy (3);5048.81
+2002073;Michałowo (3);6648.59
+2002082;Poświętne (2);5807.05
+2002093;Supraśl (3);5544.55
+2002103;Suraż (3);6201.85
+2002112;Turośń Kościelna (2);5531.82
+2002123;Tykocin (3);5731.95
+2002133;Wasilków (3);4976.88
+2002143;Zabłudów (3);5585.32
+2002152;Zawady (2);5563.90
+2003000;Powiat bielski;5462.96
+2003011;Bielsk Podlaski (1);5279.11
+2003021;Brańsk (1);6673.38
+2003032;Bielsk Podlaski (2);5097.78
+2003042;Boćki (2);5345.82
+2003052;Brańsk (2);5077.60
+2003062;Orla (2);6696.54
+2003072;Rudka (2);5470.96
+2003082;Wyszki (2);5887.25
+2004000;Powiat grajewski;5785.63
+2004011;Grajewo (1);5412.83
+2004022;Grajewo (2);5794.67
+2004032;Radziłów (2);6989.11
+2004043;Rajgród (3);5414.20
+2004053;Szczuczyn (3);6329.07
+2004062;Wąsosz (2);6084.00
+2005000;Powiat hajnowski;5355.80
+2005011;Hajnówka (1);4928.21
+2005022;Białowieża (2);6725.58
+2005032;Czeremcha (2);5100.89
+2005042;Czyże (2);5617.11
+2005052;Dubicze Cerkiewne (2);5490.70
+2005062;Hajnówka (2);5151.61
+2005073;Kleszczele (3);4760.76
+2005082;Narew (2);6396.50
+2005092;Narewka (2);6619.84
+2006000;Powiat kolneński;6302.55
+2006011;Kolno (1);5860.06
+2006022;Grabowo (2);6426.09
+2006032;Kolno (2);5578.88
+2006042;Mały Płock (2);6638.77
+2006053;Stawiski (3);7390.14
+2006062;Turośl (2);6701.47
+2007000;Powiat łomżyński;5762.93
+2007013;Jedwabne (3);5695.34
+2007022;Łomża (2);5491.34
+2007032;Miastkowo (2);6409.66
+2007043;Nowogród (3);6932.91
+2007052;Piątnica (2);5143.87
+2007062;Przytuły (2);6396.06
+2007072;Śniadowo (2);6245.49
+2007082;Wizna (2);5848.95
+2007092;Zbójna (2);5378.52
+2008000;Powiat moniecki;5251.05
+2008013;Goniądz (3);5531.89
+2008022;Jasionówka (2);5664.17
+2008032;Jaświły (2);4960.18
+2008043;Knyszyn (3);5520.39
+2008052;Krypno (2);5789.56
+2008063;Mońki (3);4863.47
+2008072;Trzcianne (2);5538.78
+2009000;Powiat sejneński;5923.02
+2009011;Sejny (1);5018.12
+2009022;Giby (2);5466.52
+2009032;Krasnopol (2);6139.75
+2009042;Puńsk (2);7163.34
+2009052;Sejny (2);5915.45
+2010000;Powiat siemiatycki;5886.75
+2010011;Siemiatycze (1);6330.46
+2010023;Drohiczyn (3);5673.69
+2010032;Dziadkowice (2);5001.43
+2010042;Grodzisk (2);4432.61
+2010052;Mielnik (2);9933.59
+2010062;Milejczyce (2);5844.19
+2010072;Nurzec-Stacja (2);4776.97
+2010082;Perlejewo (2);6219.92
+2010092;Siemiatycze (2);5453.33
+2011000;Powiat sokólski;5507.14
+2011013;Dąbrowa Białostocka (3);4758.52
+2011022;Janów (2);5910.71
+2011032;Korycin (2);5825.94
+2011043;Krynki (3);4932.14
+2011052;Kuźnica (2);5643.25
+2011062;Nowy Dwór (2);6339.35
+2011072;Sidra (2);5623.44
+2011083;Sokółka (3);5617.70
+2011093;Suchowola (3);5450.27
+2011102;Szudziałowo (2);6227.52
+2012000;Powiat suwalski;6349.76
+2012012;Bakałarzewo (2);5858.27
+2012022;Filipów (2);7168.31
+2012032;Jeleniewo (2);5490.13
+2012042;Przerośl (2);6161.70
+2012052;Raczki (2);5367.85
+2012062;Rutka-Tartak (2);5592.34
+2012072;Suwałki (2);7468.07
+2012082;Szypliszki (2);6356.02
+2012092;Wiżajny (2);6400.31
+2013000;Powiat wysokomazowiecki;6170.47
+2013011;Wysokie Mazowieckie (1);7296.49
+2013023;Ciechanowiec (3);5688.09
+2013033;Czyżew (3);6734.71
+2013042;Klukowo (2);5337.66
+2013052;Kobylin-Borzymy (2);6074.11
+2013062;Kulesze Kościelne (2);5759.27
+2013072;Nowe Piekuty (2);5927.53
+2013082;Sokoły (2);6468.65
+2013093;Szepietowo (3);5670.00
+2013102;Wysokie Mazowieckie (2);5783.82
+2014000;Powiat zambrowski;5272.62
+2014011;Zambrów (1);4733.02
+2014022;Kołaki Kościelne (2);6208.06
+2014032;Rutki (2);5468.90
+2014042;Szumowo (2);6095.48
+2014052;Zambrów (2);5808.76
+2061000;Powiat m.Białystok;7527.61
+2061011;Białystok (1);7527.61
+2062000;Powiat m.Łomża;7365.15
+2062011;Łomża (1);7365.15
+2063000;Powiat m.Suwałki;7301.42
+2063011;Suwałki (1);7301.42
+2200000;POMORSKIE;6995.52
+2201000;Powiat bytowski;6302.72
+2201012;Borzytuchom (2);7279.22
+2201023;Bytów (3);5980.64
+2201032;Czarna Dąbrówka (2);6793.36
+2201042;Kołczygłowy (2);5911.85
+2201052;Lipnica (2);6428.01
+2201063;Miastko (3);5689.44
+2201072;Parchowo (2);7716.47
+2201082;Studzienice (2);7601.92
+2201092;Trzebielino (2);7193.17
+2201102;Tuchomie (2);6602.80
+2202000;Powiat chojnicki;7044.43
+2202011;Chojnice (1);6380.62
+2202023;Brusy (3);6336.34
+2202032;Chojnice (2);10233.96
+2202043;Czersk (3);5958.79
+2202052;Konarzyny (2);6246.65
+2203000;Powiat człuchowski;6105.30
+2203011;Człuchów (1);5617.89
+2203023;Czarne (3);6827.54
+2203032;Człuchów (2);6267.83
+2203043;Debrzno (3);6045.21
+2203052;Koczała (2);5280.42
+2203062;Przechlewo (2);6506.81
+2203072;Rzeczenica (2);5841.70
+2204000;Powiat gdański;6749.85
+2204011;Pruszcz Gdański (1);6372.40
+2204022;Cedry Wielkie (2);7055.99
+2204032;Kolbudy (2);8232.75
+2204042;Pruszcz Gdański (2);6672.89
+2204052;Przywidz (2);6057.65
+2204062;Pszczółki (2);6177.64
+2204072;Suchy Dąb (2);6378.75
+2204082;Trąbki Wielkie (2);6466.54
+2205000;Powiat kartuski;7002.96
+2205012;Chmielno (2);6940.23
+2205023;Kartuzy (3);6627.28
+2205032;Przodkowo (2);7162.85
+2205042;Sierakowice (2);7747.67
+2205052;Somonino (2);6701.26
+2205062;Stężyca (2);8072.19
+2205072;Sulęczyno (2);6691.32
+2205083;Żukowo (3);6768.22
+2206000;Powiat kościerski;6617.30
+2206011;Kościerzyna (1);6608.77
+2206022;Dziemiany (2);7100.05
+2206032;Karsin (2);6578.83
+2206042;Kościerzyna (2);6320.90
+2206052;Liniewo (2);7306.04
+2206062;Lipusz (2);7244.21
+2206072;Nowa Karczma (2);6815.46
+2206082;Stara Kiszewa (2);6057.34
+2207000;Powiat kwidzyński;5612.41
+2207011;Kwidzyn (1);5596.27
+2207022;Gardeja (2);5788.07
+2207032;Kwidzyn (2);5833.35
+2207043;Prabuty (3);5113.60
+2207052;Ryjewo (2);5903.24
+2207062;Sadlinki (2);5851.07
+2208000;Powiat lęborski;6720.89
+2208011;Lębork (1);6193.26
+2208021;Łeba (1);12457.10
+2208032;Cewice (2);7234.17
+2208042;Nowa Wieś Lęborska (2);6350.57
+2208052;Wicko (2);6598.98
+2209000;Powiat malborski;5228.00
+2209011;Malbork (1);4807.12
+2209032;Lichnowy (2);6191.95
+2209042;Malbork (2);5701.18
+2209062;Miłoradz (2);5987.22
+2209073;Nowy Staw (3);5405.65
+2209082;Stare Pole (2);6392.41
+2210000;Powiat nowodworski;5639.90
+2210011;Krynica Morska (1);12424.05
+2210023;Nowy Dwór Gdański (3);5128.61
+2210032;Ostaszewo (2);4868.58
+2210042;Stegna (2);5778.12
+2210052;Sztutowo (2);6045.03
+2211000;Powiat pucki;7418.57
+2211011;Hel (1);9964.21
+2211023;Jastarnia (3);9080.11
+2211031;Puck (1);7382.00
+2211043;Władysławowo (3);8191.40
+2211052;Kosakowo (2);7325.96
+2211062;Krokowa (2);6986.09
+2211072;Puck (2);6688.03
+2212000;Powiat słupski;6945.96
+2212011;Ustka (1);6931.12
+2212022;Damnica (2);6169.98
+2212032;Dębnica Kaszubska (2);5918.05
+2212042;Główczyce (2);6522.15
+2212053;Kępice (3);6487.43
+2212062;Kobylnica (2);6795.74
+2212072;Potęgowo (2);6046.80
+2212082;Słupsk (2);8301.86
+2212092;Smołdzino (2);6359.62
+2212102;Ustka (2);7888.92
+2213000;Powiat starogardzki;5982.58
+2213013;Czarna Woda (3);5969.36
+2213021;Skórcz (1);7281.05
+2213031;Starogard Gdański (1);5469.94
+2213042;Bobowo (2);5997.63
+2213052;Kaliska (2);7177.27
+2213062;Lubichowo (2);6477.44
+2213072;Osieczna (2);5609.49
+2213082;Osiek (2);5588.41
+2213093;Skarszewy (3);6214.92
+2213102;Skórcz (2);5526.70
+2213112;Smętowo Graniczne (2);5990.99
+2213122;Starogard Gdański (2);6207.77
+2213132;Zblewo (2);6545.42
+2214000;Powiat tczewski;5607.02
+2214011;Tczew (1);5560.12
+2214023;Gniew (3);5610.81
+2214032;Morzeszczyn (2);5897.66
+2214043;Pelplin (3);5253.01
+2214052;Subkowy (2);5701.98
+2214062;Tczew (2);6059.27
+2215000;Powiat wejherowski;6103.04
+2215011;Reda (1);5326.80
+2215021;Rumia (1);5630.93
+2215031;Wejherowo (1);5513.05
+2215042;Choczewo (2);7685.75
+2215052;Gniewino (2);7922.72
+2215062;Linia (2);7544.57
+2215072;Luzino (2);6511.28
+2215082;Łęczyce (2);6350.08
+2215092;Szemud (2);7585.55
+2215102;Wejherowo (2);6263.71
+2216000;Powiat sztumski;5520.45
+2216013;Dzierzgoń (3);5763.80
+2216022;Mikołajki Pomorskie (2);6436.98
+2216032;Stary Dzierzgoń (2);6067.15
+2216042;Stary Targ (2);6118.57
+2216053;Sztum (3);4896.07
+2261000;Powiat m.Gdańsk;8333.10
+2261011;Gdańsk (1);8333.10
+2262000;Powiat m.Gdynia;7630.67
+2262011;Gdynia (1);7630.67
+2263000;Powiat m.Słupsk;7512.42
+2263011;Słupsk (1);7512.42
+2264000;Powiat m.Sopot;10641.95
+2264011;Sopot (1);10641.95
+2400000;ŚLĄSKIE;6490.81
+2401000;Powiat będziński;5769.53
+2401011;Będzin (1);5202.21
+2401021;Czeladź (1);5906.92
+2401031;Wojkowice (1);5211.95
+2401042;Bobrowniki (2);6961.39
+2401052;Mierzęcice (2);6057.47
+2401062;Psary (2);5639.65
+2401073;Siewierz (3);6528.29
+2401081;Sławków (1);6924.38
+2402000;Powiat bielski;5865.91
+2402011;Szczyrk (1);5756.37
+2402022;Bestwina (2);5403.02
+2402032;Buczkowice (2);6134.87
+2402043;Czechowice-Dziedzice (3);5570.47
+2402052;Jasienica (2);5914.65
+2402062;Jaworze (2);5585.99
+2402072;Kozy (2);6777.11
+2402082;Porąbka (2);5041.57
+2402093;Wilamowice (3);5644.53
+2402102;Wilkowice (2);7528.33
+2403000;Powiat cieszyński;5755.51
+2403011;Cieszyn (1);5898.50
+2403021;Ustroń (1);6136.01
+2403031;Wisła (1);5594.93
+2403042;Brenna (2);5345.45
+2403052;Chybie (2);7829.24
+2403062;Dębowiec (2);5323.45
+2403072;Goleszów (2);4852.91
+2403082;Hażlach (2);5628.44
+2403092;Istebna (2);6683.67
+2403103;Skoczów (3);5423.60
+2403113;Strumień (3);5632.12
+2403122;Zebrzydowice (2);5009.21
+2404000;Powiat częstochowski;5311.92
+2404013;Blachownia (3);4628.44
+2404022;Dąbrowa Zielona (2);5029.69
+2404032;Janów (2);6322.68
+2404042;Kamienica Polska (2);5398.60
+2404052;Kłomnice (2);4649.62
+2404063;Koniecpol (3);4805.80
+2404072;Konopiska (2);5085.08
+2404082;Kruszyna (2);6274.68
+2404092;Lelów (2);5948.56
+2404102;Mstów (2);5249.57
+2404112;Mykanów (2);5621.69
+2404122;Olsztyn (2);5677.35
+2404132;Poczesna (2);5440.26
+2404142;Przyrów (2);5932.88
+2404152;Rędziny (2);5333.47
+2404162;Starcza (2);5576.17
+2405000;Powiat gliwicki;5687.53
+2405011;Knurów (1);5458.27
+2405021;Pyskowice (1);5697.22
+2405032;Gierałtowice (2);6225.30
+2405042;Pilchowice (2);5785.26
+2405052;Rudziniec (2);5654.71
+2405063;Sośnicowice (3);5926.63
+2405073;Toszek (3);5579.19
+2405082;Wielowieś (2);5688.62
+2406000;Powiat kłobucki;5384.96
+2406013;Kłobuck (3);5055.39
+2406023;Krzepice (3);4930.25
+2406032;Lipie (2);5568.84
+2406042;Miedźno (2);6351.56
+2406052;Opatów (2);5612.83
+2406062;Panki (2);5536.02
+2406072;Popów (2);6264.90
+2406082;Przystajń (2);5822.92
+2406092;Wręczyca Wielka (2);4954.56
+2407000;Powiat lubliniecki;6102.28
+2407011;Lubliniec (1);6305.86
+2407022;Boronów (2);6998.07
+2407032;Ciasna (2);6512.52
+2407042;Herby (2);5607.96
+2407052;Kochanowice (2);6612.16
+2407062;Koszęcin (2);5099.46
+2407072;Pawonków (2);6438.41
+2407083;Woźniki (3);5941.63
+2408000;Powiat mikołowski;6246.46
+2408011;Łaziska Górne (1);5825.45
+2408021;Mikołów (1);6624.58
+2408031;Orzesze (1);5737.11
+2408042;Ornontowice (2);6533.58
+2408052;Wyry (2);6579.24
+2409000;Powiat myszkowski;5292.21
+2409011;Myszków (1);4974.39
+2409023;Koziegłowy (3);5612.61
+2409032;Niegowa (2);6054.91
+2409042;Poraj (2);4907.30
+2409053;Żarki (3);5921.25
+2410000;Powiat pszczyński;5915.28
+2410012;Goczałkowice-Zdrój (2);7944.27
+2410022;Kobiór (2);5521.14
+2410032;Miedźna (2);5406.03
+2410042;Pawłowice (2);6647.12
+2410053;Pszczyna (3);5710.82
+2410062;Suszec (2);5446.53
+2411000;Powiat raciborski;5120.64
+2411011;Racibórz (1);5000.57
+2411022;Kornowac (2);6765.43
+2411033;Krzanowice (3);4734.52
+2411042;Krzyżanowice (2);5577.21
+2411053;Kuźnia Raciborska (3);4911.52
+2411062;Nędza (2);4445.88
+2411072;Pietrowice Wielkie (2);5093.87
+2411082;Rudnik (2);5655.24
+2412000;Powiat rybnicki;5443.99
+2412013;Czerwionka-Leszczyny (3);5289.09
+2412022;Gaszowice (2);5423.63
+2412032;Jejkowice (2);5380.17
+2412042;Lyski (2);5578.27
+2412052;Świerklany (2);5897.29
+2413000;Powiat tarnogórski;5899.64
+2413011;Kalety (1);4816.92
+2413021;Miasteczko Śląskie (1);6458.50
+2413031;Radzionków (1);5718.55
+2413041;Tarnowskie Góry (1);5891.95
+2413052;Krupski Młyn (2);7352.93
+2413062;Ożarowice (2);7467.93
+2413072;Świerklaniec (2);6023.60
+2413082;Tworóg (2);5721.68
+2413092;Zbrosławice (2);5585.29
+2414000;Powiat bieruńsko-lędziński;5765.15
+2414011;Bieruń (1);6109.95
+2414021;Imielin (1);5894.13
+2414031;Lędziny (1);5097.80
+2414042;Bojszowy (2);5827.15
+2414052;Chełm Śląski (2);6205.64
+2415000;Powiat wodzisławski;5370.44
+2415011;Pszów (1);5110.87
+2415021;Radlin (1);5678.29
+2415031;Rydułtowy (1);5033.25
+2415041;Wodzisław Śląski (1);5092.32
+2415052;Godów (2);5316.80
+2415062;Gorzyce (2);5201.56
+2415072;Lubomia (2);6762.17
+2415082;Marklowice (2);6182.29
+2415092;Mszana (2);6358.64
+2416000;Powiat zawierciański;5349.52
+2416011;Poręba (1);4397.43
+2416021;Zawiercie (1);5355.90
+2416032;Irządze (2);5855.12
+2416042;Kroczyce (2);5878.68
+2416053;Łazy (3);5139.21
+2416063;Ogrodzieniec (3);5851.99
+2416073;Pilica (3);5133.36
+2416083;Szczekociny (3);5720.43
+2416092;Włodowice (2);5621.48
+2416102;Żarnowiec (2);5237.54
+2417000;Powiat żywiecki;5479.91
+2417011;Żywiec (1);5539.53
+2417022;Czernichów (2);5011.45
+2417032;Gilowice (2);5506.18
+2417042;Jeleśnia (2);5260.80
+2417052;Koszarawa (2);6677.56
+2417062;Lipowa (2);5293.45
+2417072;Łękawica (2);5514.81
+2417082;Łodygowice (2);5193.18
+2417092;Milówka (2);5363.65
+2417102;Radziechowy-Wieprz (2);5370.59
+2417112;Rajcza (2);5978.28
+2417122;Ślemień (2);6417.95
+2417132;Świnna (2);6314.33
+2417142;Ujsoły (2);5143.61
+2417152;Węgierska Górka (2);5273.92
+2461000;Powiat m.Bielsko-Biała;8151.40
+2461011;Bielsko-Biała (1);8151.40
+2462000;Powiat m.Bytom;6345.64
+2462011;Bytom (1);6345.64
+2463000;Powiat m.Chorzów;6904.34
+2463011;Chorzów (1);6904.34
+2464000;Powiat m.Częstochowa;6756.78
+2464011;Częstochowa (1);6756.78
+2465000;Powiat m.Dąbrowa Górnicza;7788.75
+2465011;Dąbrowa Górnicza (1);7788.75
+2466000;Powiat m.Gliwice;8896.50
+2466011;Gliwice (1);8896.50
+2467000;Powiat m.Jastrzębie-Zdrój;6655.52
+2467011;Jastrzębie-Zdrój (1);6655.52
+2468000;Powiat m.Jaworzno;7033.31
+2468011;Jaworzno (1);7033.31
+2469000;Powiat m.Katowice;8176.27
+2469011;Katowice (1);8176.27
+2470000;Powiat m.Mysłowice;6559.97
+2470011;Mysłowice (1);6559.97
+2471000;Powiat m.Piekary Śląskie;6118.58
+2471011;Piekary Śląskie (1);6118.58
+2472000;Powiat m.Ruda Śląska;6501.52
+2472011;Ruda Śląska (1);6501.52
+2473000;Powiat m.Rybnik;7302.49
+2473011;Rybnik (1);7302.49
+2474000;Powiat m.Siemianowice Śląskie;6694.68
+2474011;Siemianowice Śląskie (1);6694.68
+2475000;Powiat m.Sosnowiec;6324.86
+2475011;Sosnowiec (1);6324.86
+2476000;Powiat m.Świętochłowice;6323.71
+2476011;Świętochłowice (1);6323.71
+2477000;Powiat m.Tychy;7739.92
+2477011;Tychy (1);7739.92
+2478000;Powiat m.Zabrze;6295.62
+2478011;Zabrze (1);6295.62
+2479000;Powiat m.Żory;6696.16
+2479011;Żory (1);6696.16
+2600000;ŚWIĘTOKRZYSKIE;5824.60
+2601000;Powiat buski;5534.67
+2601013;Busko-Zdrój (3);5546.14
+2601022;Gnojno (2);5947.60
+2601033;Nowy Korczyn (3);5136.38
+2601043;Pacanów (3);5420.98
+2601052;Solec-Zdrój (2);6598.17
+2601063;Stopnica (3);4975.12
+2601072;Tuczępy (2);5518.10
+2601083;Wiślica (3);5530.71
+2602000;Powiat jędrzejowski;5417.38
+2602012;Imielno (2);5443.78
+2602023;Jędrzejów (3);5238.75
+2602033;Małogoszcz (3);5418.98
+2602042;Nagłowice (2);5742.70
+2602052;Oksa (2);5996.47
+2602063;Sędziszów (3);5323.76
+2602072;Słupia (2);5510.68
+2602082;Sobków (2);5344.79
+2603000;Powiat kazimierski;5287.48
+2603012;Bejsce (2);5120.72
+2603022;Czarnocin (2);5073.13
+2603033;Kazimierza Wielka (3);5431.15
+2603043;Opatowiec (3);5170.66
+2603053;Skalbmierz (3);5215.62
+2604000;Powiat kielecki;6137.08
+2604012;Bieliny (2);6528.75
+2604023;Bodzentyn (3);5413.86
+2604033;Chęciny (3);5135.40
+2604043;Chmielnik (3);6104.86
+2604053;Daleszyce (3);5562.30
+2604062;Górno (2);7022.07
+2604073;Łagów (3);6401.29
+2604082;Łopuszno (2);6227.67
+2604092;Masłów (2);5126.87
+2604102;Miedziana Góra (2);5987.38
+2604112;Mniów (2);5707.17
+2604123;Morawica (3);6797.28
+2604133;Nowa Słupia (3);6698.10
+2604142;Piekoszów (2);5486.43
+2604153;Pierzchnica (3);6104.98
+2604162;Raków (2);7967.64
+2604172;Nowiny (2);8684.70
+2604182;Strawczyn (2);6343.87
+2604192;Zagnańsk (2);5524.49
+2605000;Powiat konecki;5319.08
+2605012;Fałków (2);5921.46
+2605022;Gowarczów (2);4959.85
+2605033;Końskie (3);5548.20
+2605043;Radoszyce (3);5812.51
+2605052;Ruda Maleniecka (2);5370.79
+2605062;Słupia Konecka (2);6083.55
+2605072;Smyków (2);5495.94
+2605083;Stąporków (3);4311.29
+2606000;Powiat opatowski;5456.22
+2606012;Baćkowice (2);6625.65
+2606022;Iwaniska (2);5877.81
+2606032;Lipnik (2);5019.10
+2606043;Opatów (3);4192.19
+2606053;Ożarów (3);6996.91
+2606062;Sadowie (2);4788.49
+2606072;Tarłów (2);4236.51
+2606082;Wojciechowice (2);5695.89
+2607000;Powiat ostrowiecki;4735.42
+2607011;Ostrowiec Świętokrzyski (1);4392.23
+2607022;Bałtów (2);6575.89
+2607032;Bodzechów (2);5723.12
+2607043;Ćmielów (3);4315.64
+2607053;Kunów (3);4845.49
+2607062;Waśniów (2);5618.12
+2608000;Powiat pińczowski;5076.58
+2608013;Działoszyce (3);5631.28
+2608022;Kije (2);5184.51
+2608032;Michałów (2);5408.25
+2608043;Pińczów (3);4970.74
+2608052;Złota (2);4512.11
+2609000;Powiat sandomierski;5424.39
+2609011;Sandomierz (1);5364.20
+2609022;Dwikozy (2);5159.13
+2609033;Klimontów (3);6302.23
+2609043;Koprzywnica (3);6073.14
+2609052;Łoniów (2);5081.28
+2609062;Obrazów (2);5431.40
+2609072;Samborzec (2);4996.67
+2609082;Wilczyce (2);5366.72
+2609093;Zawichost (3);5130.40
+2610000;Powiat skarżyski;4830.20
+2610011;Skarżysko-Kamienna (1);4609.28
+2610022;Bliżyn (2);4341.30
+2610032;Łączna (2);4994.43
+2610042;Skarżysko Kościelne (2);4963.38
+2610053;Suchedniów (3);6038.13
+2611000;Powiat starachowicki;5498.40
+2611011;Starachowice (1);5320.49
+2611022;Brody (2);6194.38
+2611032;Mirzec (2);5462.83
+2611042;Pawłów (2);5939.00
+2611053;Wąchock (3);4707.57
+2612000;Powiat staszowski;5593.85
+2612012;Bogoria (2);6643.80
+2612022;Łubnice (2);5530.73
+2612033;Oleśnica (3);5342.06
+2612043;Osiek (3);4947.28
+2612053;Połaniec (3);7115.07
+2612062;Rytwiany (2);5139.85
+2612073;Staszów (3);4915.29
+2612083;Szydłów (3);5710.78
+2613000;Powiat włoszczowski;5339.73
+2613012;Kluczewsko (2);6566.27
+2613022;Krasocin (2);5183.35
+2613032;Moskorzew (2);4668.97
+2613042;Radków (2);5824.97
+2613052;Secemin (2);4913.07
+2613063;Włoszczowa (3);5230.08
+2661000;Powiat m.Kielce;7806.72
+2661011;Kielce (1);7806.72
+2800000;WARMIŃSKO-MAZURSKIE;6023.73
+2801000;Powiat bartoszycki;5700.24
+2801011;Bartoszyce (1);5210.52
+2801021;Górowo Iławeckie (1);6277.18
+2801032;Bartoszyce (2);5644.76
+2801043;Bisztynek (3);5765.79
+2801052;Górowo Iławeckie (2);6192.35
+2801063;Sępopol (3);6664.08
+2802000;Powiat braniewski;5574.70
+2802011;Braniewo (1);5406.27
+2802022;Braniewo (2);5016.04
+2802033;Frombork (3);5568.00
+2802042;Lelkowo (2);6101.67
+2802053;Pieniężno (3);5724.38
+2802062;Płoskinia (2);6741.77
+2802072;Wilczęta (2);5905.26
+2803000;Powiat działdowski;5469.15
+2803011;Działdowo (1);5052.82
+2803022;Działdowo (2);5579.06
+2803032;Iłowo-Osada (2);5625.18
+2803043;Lidzbark (3);5205.59
+2803052;Płośnica (2);5773.67
+2803062;Rybno (2);6670.99
+2804000;Powiat elbląski;5723.91
+2804012;Elbląg (2);6155.93
+2804022;Godkowo (2);6237.04
+2804032;Gronowo Elbląskie (2);5448.85
+2804042;Markusy (2);5900.79
+2804052;Milejewo (2);5724.86
+2804063;Młynary (3);6398.95
+2804073;Pasłęk (3);5209.07
+2804082;Rychliki (2);6799.73
+2804093;Tolkmicko (3);5542.01
+2805000;Powiat ełcki;5581.46
+2805011;Ełk (1);5292.24
+2805022;Ełk (2);6331.87
+2805032;Kalinowo (2);6316.45
+2805042;Prostki (2);5977.38
+2805052;Stare Juchy (2);5929.63
+2806000;Powiat giżycki;5805.19
+2806011;Giżycko (1);5481.30
+2806042;Giżycko (2);6625.11
+2806052;Kruklanki (2);5743.36
+2806062;Miłki (2);5834.58
+2806083;Ryn (3);6795.18
+2806102;Wydminy (2);5313.96
+2807000;Powiat iławski;5824.76
+2807011;Iława (1);5684.68
+2807021;Lubawa (1);6447.34
+2807032;Iława (2);5645.04
+2807043;Kisielice (3);5873.81
+2807052;Lubawa (2);5639.50
+2807063;Susz (3);6115.70
+2807073;Zalewo (3);5607.53
+2808000;Powiat kętrzyński;5423.18
+2808011;Kętrzyn (1);5207.22
+2808022;Barciany (2);6166.96
+2808032;Kętrzyn (2);5741.06
+2808043;Korsze (3);5497.60
+2808053;Reszel (3);5249.76
+2808062;Srokowo (2);5231.26
+2809000;Powiat lidzbarski;5819.55
+2809011;Lidzbark Warmiński (1);6138.56
+2809022;Kiwity (2);6174.00
+2809032;Lidzbark Warmiński (2);5480.35
+2809042;Lubomino (2);6783.73
+2809053;Orneta (3);5201.19
+2810000;Powiat mrągowski;5849.85
+2810011;Mrągowo (1);5419.92
+2810023;Mikołajki (3);7400.57
+2810032;Mrągowo (2);5542.67
+2810042;Piecki (2);5741.50
+2810052;Sorkwity (2);5828.38
+2811000;Powiat nidzicki;5786.26
+2811012;Janowiec Kościelny (2);6372.60
+2811022;Janowo (2);6026.52
+2811032;Kozłowo (2);5685.83
+2811043;Nidzica (3);5695.53
+2812000;Powiat nowomiejski;6187.44
+2812011;Nowe Miasto Lubawskie (1);5482.16
+2812022;Biskupiec (2);5909.34
+2812032;Grodziczno (2);6726.27
+2812042;Kurzętnik (2);6695.63
+2812052;Nowe Miasto Lubawskie (2);6456.07
+2813000;Powiat olecki;5699.41
+2813032;Kowale Oleckie (2);6160.69
+2813043;Olecko (3);5571.93
+2813052;Świętajno (2);5756.21
+2813062;Wieliczki (2);5793.81
+2814000;Powiat olsztyński;6307.68
+2814013;Barczewo (3);5689.17
+2814023;Biskupiec (3);5785.11
+2814033;Dobre Miasto (3);4980.70
+2814042;Dywity (2);6705.56
+2814052;Gietrzwałd (2);8754.20
+2814063;Jeziorany (3);5970.98
+2814072;Jonkowo (2);7593.19
+2814082;Kolno (2);5617.08
+2814093;Olsztynek (3);5247.34
+2814102;Purda (2);7046.10
+2814112;Stawiguda (2);8560.46
+2814122;Świątki (2);6164.72
+2815000;Powiat ostródzki;5443.24
+2815011;Ostróda (1);5050.94
+2815022;Dąbrówno (2);6004.35
+2815032;Grunwald (2);6573.11
+2815042;Łukta (2);5234.05
+2815052;Małdyty (2);5485.44
+2815063;Miłakowo (3);5666.49
+2815073;Miłomłyn (3);5695.62
+2815083;Morąg (3);5349.86
+2815092;Ostróda (2);5731.11
+2816000;Powiat piski;5295.97
+2816013;Biała Piska (3);5543.62
+2816023;Orzysz (3);5687.88
+2816033;Pisz (3);5163.28
+2816043;Ruciane-Nida (3);4961.24
+2817000;Powiat szczycieński;5761.25
+2817011;Szczytno (1);5347.62
+2817022;Dźwierzuty (2);5621.61
+2817032;Jedwabno (2);6289.83
+2817043;Pasym (3);6720.44
+2817052;Rozogi (2);6366.30
+2817062;Szczytno (2);5363.24
+2817072;Świętajno (2);5440.65
+2817083;Wielbark (3);6873.86
+2818000;Powiat gołdapski;5837.13
+2818012;Banie Mazurskie (2);5007.57
+2818022;Dubeninki (2);5897.42
+2818033;Gołdap (3);5978.98
+2819000;Powiat węgorzewski;5239.14
+2819012;Budry (2);5372.64
+2819022;Pozezdrze (2);5962.08
+2819033;Węgorzewo (3);5076.26
+2861000;Powiat m.Elbląg;6112.78
+2861011;Elbląg (1);6112.78
+2862000;Powiat m.Olsztyn;7899.34
+2862011;Olsztyn (1);7899.34
+3000000;WIELKOPOLSKIE;6314.53
+3001000;Powiat chodzieski;5724.13
+3001011;Chodzież (1);4721.51
+3001032;Chodzież (2);6414.00
+3001043;Margonin (3);7255.17
+3001053;Szamocin (3);6023.46
+3002000;Powiat czarnkowsko-trzcianecki;5645.20
+3002011;Czarnków (1);5997.00
+3002022;Czarnków (2);5041.66
+3002032;Drawsko (2);5479.19
+3002043;Krzyż Wielkopolski (3);4864.42
+3002052;Lubasz (2);5861.17
+3002062;Połajewo (2);6021.19
+3002073;Trzcianka (3);5615.89
+3002083;Wieleń (3);6269.18
+3003000;Powiat gnieźnieński;5581.94
+3003011;Gniezno (1);5473.52
+3003023;Czerniejewo (3);5791.23
+3003032;Gniezno (2);5850.54
+3003042;Kiszkowo (2);5460.76
+3003053;Kłecko (3);6759.50
+3003062;Łubowo (2);6138.03
+3003072;Mieleszyn (2);5001.48
+3003082;Niechanowo (2);5672.73
+3003093;Trzemeszno (3);5358.61
+3003103;Witkowo (3);5257.56
+3004000;Powiat gostyński;5596.84
+3004013;Borek Wielkopolski (3);5623.62
+3004023;Gostyń (3);5308.56
+3004033;Krobia (3);5810.25
+3004042;Pępowo (2);6174.22
+3004052;Piaski (2);5670.27
+3004063;Pogorzela (3);5798.85
+3004073;Poniec (3);5612.91
+3005000;Powiat grodziski;5401.77
+3005012;Granowo (2);6034.53
+3005023;Grodzisk Wielkopolski (3);5361.85
+3005032;Kamieniec (2);5373.78
+3005043;Rakoniewice (3);5306.73
+3005053;Wielichowo (3);5262.66
+3006000;Powiat jarociński;5496.68
+3006013;Jaraczewo (3);5477.87
+3006023;Jarocin (3);5342.56
+3006032;Kotlin (2);5933.40
+3006043;Żerków (3);5883.57
+3007000;Powiat kaliski;5694.63
+3007012;Blizanów (2);5119.36
+3007022;Brzeziny (2);6664.45
+3007032;Ceków-Kolonia (2);6387.07
+3007042;Godziesze Wielkie (2);5789.44
+3007062;Lisków (2);5645.70
+3007072;Mycielin (2);5093.34
+3007083;Opatówek (3);5677.89
+3007093;Stawiszyn (3);5299.72
+3007102;Szczytniki (2);5978.78
+3007112;Żelazków (2);6152.76
+3008000;Powiat kępiński;6563.46
+3008012;Baranów (2);8072.50
+3008022;Bralin (2);5931.85
+3008033;Kępno (3);5923.96
+3008042;Łęka Opatowska (2);7541.63
+3008052;Perzów (2);7916.84
+3008062;Rychtal (2);6033.16
+3008072;Trzcinica (2);6391.48
+3009000;Powiat kolski;5376.83
+3009011;Koło (1);5313.95
+3009022;Babiak (2);5340.18
+3009032;Chodów (2);4923.71
+3009043;Dąbie (3);5852.87
+3009052;Grzegorzew (2);5289.79
+3009063;Kłodawa (3);5126.17
+3009072;Koło (2);5450.99
+3009082;Kościelec (2);5149.77
+3009092;Olszówka (2);5539.70
+3009102;Osiek Mały (2);5931.47
+3009113;Przedecz (3);5507.73
+3010000;Powiat koniński;5733.07
+3010013;Golina (3);5388.98
+3010022;Grodziec (2);6354.76
+3010032;Kazimierz Biskupi (2);5558.98
+3010043;Kleczew (3);7890.17
+3010052;Kramsk (2);5109.84
+3010062;Krzymów (2);5304.41
+3010073;Rychwał (3);5424.88
+3010082;Rzgów (2);5787.91
+3010092;Skulsk (2);5431.20
+3010103;Sompolno (3);5320.89
+3010112;Stare Miasto (2);5765.35
+3010123;Ślesin (3);5516.23
+3010132;Wierzbinek (2);6449.13
+3010142;Wilczyn (2);5373.13
+3011000;Powiat kościański;5907.54
+3011011;Kościan (1);5610.85
+3011023;Czempiń (3);5920.65
+3011032;Kościan (2);7064.51
+3011043;Krzywiń (3);5906.33
+3011053;Śmigiel (3);5235.69
+3012000;Powiat krotoszyński;5168.62
+3012011;Sulmierzyce (1);5519.50
+3012023;Kobylin (3);5119.14
+3012033;Koźmin Wielkopolski (3);5383.09
+3012043;Krotoszyn (3);4851.73
+3012052;Rozdrażew (2);5301.00
+3012063;Zduny (3);6315.78
+3013000;Powiat leszczyński;6106.50
+3013012;Krzemieniewo (2);6055.34
+3013022;Lipno (2);5772.30
+3013033;Osieczna (3);7202.97
+3013043;Rydzyna (3);6097.81
+3013052;Święciechowa (2);5468.26
+3013062;Wijewo (2);6126.01
+3013072;Włoszakowice (2);5930.00
+3014000;Powiat międzychodzki;5911.63
+3014012;Chrzypsko Wielkie (2);6655.40
+3014022;Kwilcz (2);5719.39
+3014033;Międzychód (3);5867.28
+3014043;Sieraków (3);5862.89
+3015000;Powiat nowotomyski;5932.45
+3015012;Kuślin (2);6026.12
+3015023;Lwówek (3);6464.29
+3015032;Miedzichowo (2);6635.74
+3015043;Nowy Tomyśl (3);6117.44
+3015053;Opalenica (3);5514.91
+3015063;Zbąszyń (3);5491.08
+3016000;Powiat obornicki;5285.93
+3016013;Oborniki (3);5362.53
+3016023;Rogoźno (3);5124.03
+3016032;Ryczywół (2);5334.44
+3017000;Powiat ostrowski;5685.01
+3017011;Ostrów Wielkopolski (1);5358.20
+3017023;Nowe Skalmierzyce (3);6548.42
+3017033;Odolanów (3);6629.05
+3017042;Ostrów Wielkopolski (2);5740.44
+3017052;Przygodzice (2);5610.62
+3017063;Raszków (3);5632.13
+3017072;Sieroszewice (2);5306.04
+3017082;Sośnie (2);5725.96
+3018000;Powiat ostrzeszowski;5989.90
+3018012;Czajków (2);7427.94
+3018022;Doruchów (2);6169.86
+3018033;Grabów nad Prosną (3);5555.67
+3018042;Kobyla Góra (2);7337.41
+3018052;Kraszewice (2);6944.40
+3018063;Mikstat (3);6370.15
+3018073;Ostrzeszów (3);5355.49
+3019000;Powiat pilski;5300.39
+3019011;Piła (1);5288.01
+3019022;Białośliwie (2);5241.60
+3019032;Kaczory (2);5231.47
+3019043;Łobżenica (3);5563.65
+3019052;Miasteczko Krajeńskie (2);7396.66
+3019062;Szydłowo (2);5878.30
+3019073;Ujście (3);4572.07
+3019083;Wyrzysk (3);4928.49
+3019093;Wysoka (3);5027.15
+3020000;Powiat pleszewski;5709.59
+3020013;Chocz (3);6200.47
+3020022;Czermin (2);5656.84
+3020033;Dobrzyca (3);5225.63
+3020042;Gizałki (2);6180.30
+3020052;Gołuchów (2);5748.11
+3020063;Pleszew (3);5685.01
+3021000;Powiat poznański;6723.61
+3021011;Luboń (1);5505.14
+3021021;Puszczykowo (1);6457.38
+3021033;Buk (3);5703.73
+3021042;Czerwonak (2);5968.70
+3021052;Dopiewo (2);6809.61
+3021062;Kleszczewo (2);7826.99
+3021072;Komorniki (2);7262.29
+3021083;Kostrzyn (3);5842.02
+3021093;Kórnik (3);7751.34
+3021103;Mosina (3);5518.32
+3021113;Murowana Goślina (3);5032.94
+3021123;Pobiedziska (3);6025.94
+3021132;Rokietnica (2);5983.43
+3021143;Stęszew (3);5310.56
+3021152;Suchy Las (2);10678.20
+3021163;Swarzędz (3);6333.36
+3021172;Tarnowo Podgórne (2);10128.70
+3022000;Powiat rawicki;5531.44
+3022013;Bojanowo (3);4789.49
+3022023;Jutrosin (3);6059.37
+3022033;Miejska Górka (3);5502.26
+3022042;Pakosław (2);5919.01
+3022053;Rawicz (3);5568.31
+3023000;Powiat słupecki;5644.76
+3023011;Słupca (1);5133.22
+3023022;Lądek (2);5478.41
+3023032;Orchowo (2);6709.37
+3023042;Ostrowite (2);6000.61
+3023052;Powidz (2);10313.42
+3023062;Słupca (2);5244.84
+3023072;Strzałkowo (2);5297.98
+3023083;Zagórów (3);5484.00
+3024000;Powiat szamotulski;5708.42
+3024011;Obrzycko (1);6488.68
+3024022;Duszniki (2);5216.14
+3024032;Kaźmierz (2);5413.11
+3024042;Obrzycko (2);5438.12
+3024053;Ostroróg (3);5270.81
+3024063;Pniewy (3);7266.11
+3024073;Szamotuły (3);5473.06
+3024083;Wronki (3);5497.88
+3025000;Powiat średzki;6160.31
+3025012;Dominowo (2);5970.14
+3025022;Krzykosy (2);8650.07
+3025032;Nowe Miasto nad Wartą (2);6060.27
+3025043;Środa Wielkopolska (3);5805.04
+3025052;Zaniemyśl (2);5488.91
+3026000;Powiat śremski;5401.65
+3026012;Brodnica (2);5620.41
+3026023;Dolsk (3);4905.19
+3026033;Książ Wielkopolski (3);5509.88
+3026043;Śrem (3);5423.97
+3027000;Powiat turecki;5651.06
+3027011;Turek (1);4880.22
+3027022;Brudzew (2);6359.06
+3027033;Dobra (3);6658.65
+3027042;Kawęczyn (2);5841.28
+3027052;Malanów (2);6638.34
+3027062;Przykona (2);7253.08
+3027073;Tuliszków (3);5502.92
+3027082;Turek (2);5175.09
+3027092;Władysławów (2);5862.67
+3028000;Powiat wągrowiecki;5621.17
+3028011;Wągrowiec (1);4855.31
+3028022;Damasławek (2);6630.96
+3028033;Gołańcz (3);5980.88
+3028042;Mieścisko (2);6449.38
+3028053;Skoki (3);6069.94
+3028062;Wapno (2);5586.47
+3028072;Wągrowiec (2);5795.19
+3029000;Powiat wolsztyński;5114.29
+3029012;Przemęt (2);5337.00
+3029022;Siedlec (2);5001.75
+3029033;Wolsztyn (3);5058.19
+3030000;Powiat wrzesiński;5786.90
+3030012;Kołaczkowo (2);6160.80
+3030023;Miłosław (3);4896.95
+3030033;Nekla (3);6268.30
+3030043;Pyzdry (3);5710.53
+3030053;Września (3);5864.55
+3031000;Powiat złotowski;5303.73
+3031011;Złotów (1);4994.08
+3031023;Jastrowie (3);5068.10
+3031033;Krajenka (3);5481.13
+3031042;Lipka (2);5446.46
+3031053;Okonek (3);5538.03
+3031062;Tarnówka (2);5611.63
+3031072;Zakrzewo (2);5043.71
+3031082;Złotów (2);5774.89
+3061000;Powiat m.Kalisz;7410.39
+3061011;Kalisz (1);7410.39
+3062000;Powiat m.Konin;8897.79
+3062011;Konin (1);8897.79
+3063000;Powiat m.Leszno;8226.06
+3063011;Leszno (1);8226.06
+3064000;Powiat m.Poznań;8165.32
+3064011;Poznań (1);8165.32
+3200000;ZACHODNIOPOMORSKIE;6566.48
+3201000;Powiat białogardzki;5445.06
+3201011;Białogard (1);5146.95
+3201022;Białogard (2);4684.54
+3201033;Karlino (3);6994.35
+3201043;Tychowo (3);5260.78
+3202000;Powiat choszczeński;5621.78
+3202012;Bierzwnik (2);5790.26
+3202023;Choszczno (3);5077.70
+3202033;Drawno (3);5856.54
+3202042;Krzęcin (2);5245.28
+3202053;Pełczyce (3);7015.73
+3202063;Recz (3);5684.57
+3203000;Powiat drawski;5579.05
+3203013;Czaplinek (3);5322.15
+3203023;Drawsko Pomorskie (3);5620.98
+3203033;Kalisz Pomorski (3);6982.98
+3203052;Wierzchowo (2);5887.82
+3203063;Złocieniec (3);5009.04
+3204000;Powiat goleniowski;5642.53
+3204023;Goleniów (3);6371.17
+3204033;Maszewo (3);5319.73
+3204043;Nowogard (3);4789.36
+3204052;Osina (2);4823.93
+3204062;Przybiernów (2);5831.30
+3204073;Stepnica (3);5444.96
+3205000;Powiat gryficki;5940.40
+3205012;Brojce (2);6505.06
+3205023;Gryfice (3);5513.39
+3205032;Karnice (2);5203.63
+3205043;Płoty (3);5437.93
+3205072;Rewal (2);13110.60
+3205083;Trzebiatów (3);5166.74
+3206000;Powiat gryfiński;5936.42
+3206012;Banie (2);5755.17
+3206023;Cedynia (3);7475.16
+3206033;Chojna (3);5798.10
+3206043;Gryfino (3);6048.08
+3206053;Mieszkowice (3);5816.01
+3206063;Moryń (3);6082.48
+3206072;Stare Czarnowo (2);5751.85
+3206083;Trzcińsko-Zdrój (3);5460.97
+3206092;Widuchowa (2);5278.31
+3207000;Powiat kamieński;6812.71
+3207013;Dziwnów (3);11697.74
+3207023;Golczewo (3);6565.20
+3207033;Kamień Pomorski (3);4870.92
+3207043;Międzyzdroje (3);10812.41
+3207052;Świerzno (2);5373.17
+3207063;Wolin (3);6015.89
+3208000;Powiat kołobrzeski;6769.75
+3208011;Kołobrzeg (1);6130.70
+3208022;Dygowo (2);7499.61
+3208033;Gościno (3);8890.71
+3208042;Kołobrzeg (2);6910.85
+3208052;Rymań (2);7614.70
+3208062;Siemyśl (2);5621.50
+3208072;Ustronie Morskie (2);10637.23
+3209000;Powiat koszaliński;6246.45
+3209012;Będzino (2);6018.70
+3209022;Biesiekierz (2);6686.29
+3209033;Bobolice (3);5492.40
+3209042;Manowo (2);4915.95
+3209053;Mielno (3);10984.58
+3209063;Polanów (3);5464.56
+3209073;Sianów (3);5662.02
+3209082;Świeszyno (2);7071.96
+3210000;Powiat myśliborski;5842.44
+3210013;Barlinek (3);5859.51
+3210022;Boleszkowice (2);6867.54
+3210033;Dębno (3);6041.74
+3210043;Myślibórz (3);5321.61
+3210052;Nowogródek Pomorski (2);6713.56
+3211000;Powiat policki;6448.44
+3211012;Dobra (Szczecińska) (2);7229.85
+3211022;Kołbaskowo (2);7198.45
+3211033;Nowe Warpno (3);5764.08
+3211043;Police (3);5759.07
+3212000;Powiat pyrzycki;5282.81
+3212012;Bielice (2);5349.96
+3212022;Kozielice (2);7525.17
+3212033;Lipiany (3);4693.11
+3212042;Przelewice (2);6072.23
+3212053;Pyrzyce (3);4848.04
+3212062;Warnice (2);5875.37
+3213000;Powiat sławieński;6569.49
+3213011;Darłowo (1);6293.17
+3213021;Sławno (1);5073.76
+3213032;Darłowo (2);8185.96
+3213042;Malechowo (2);5853.41
+3213052;Postomino (2);9342.43
+3213062;Sławno (2);5990.21
+3214000;Powiat stargardzki;5426.19
+3214011;Stargard (1);5329.96
+3214023;Chociwel (3);5532.32
+3214033;Dobrzany (3);5231.21
+3214042;Dolice (2);5227.20
+3214053;Ińsko (3);5079.34
+3214062;Kobylanka (2);6353.25
+3214082;Marianowo (2);6142.55
+3214092;Stara Dąbrowa (2);6744.45
+3214102;Stargard (2);5179.63
+3214113;Suchań (3);5540.03
+3215000;Powiat szczecinecki;5168.47
+3215011;Szczecinek (1);4891.07
+3215023;Barwice (3);5361.32
+3215033;Biały Bór (3);6145.41
+3215043;Borne Sulinowo (3);5229.48
+3215052;Grzmiąca (2);5057.02
+3215062;Szczecinek (2);5623.23
+3216000;Powiat świdwiński;5310.82
+3216011;Świdwin (1);5124.45
+3216022;Brzeżno (2);5328.23
+3216033;Połczyn-Zdrój (3);5426.76
+3216042;Rąbino (2);5474.57
+3216052;Sławoborze (2);5784.19
+3216062;Świdwin (2);5072.35
+3217000;Powiat wałecki;5373.97
+3217011;Wałcz (1);5013.17
+3217023;Człopa (3);5863.51
+3217033;Mirosławiec (3);6175.99
+3217043;Tuczno (3);5168.04
+3217052;Wałcz (2);5639.36
+3218000;Powiat łobeski;5959.30
+3218013;Dobra (3);4819.14
+3218023;Łobez (3);5846.45
+3218032;Radowo Małe (2);5009.61
+3218043;Resko (3);5687.11
+3218053;Węgorzyno (3);7717.02
+3261000;Powiat m.Koszalin;6980.00
+3261011;Koszalin (1);6980.00
+3262000;Powiat m.Szczecin;7640.75
+3262011;Szczecin (1);7640.75
+3263000;Powiat m.Świnoujście;14753.11
+3263011;Świnoujście (1);14753.11
