@@ -1,4 +1,4 @@
-,Rural county,Urban county,Revenue per person,Website,Start date,Students,Sport venues,German or French,Logopedist,Psychologist,Pedagogue,Participants in English,Avg. score in English,Prctl in English
+ID,Rural county,Urban county,Revenue per person,Website,Start date,Students,Sport venues,German or French,Logopedist,Psychologist,Pedagogue,Participants in English,Avg. score in English,Prctl in English
 0,0,1,0.12066748232531856,1,0.0684931506849315,0.26217228464419473,1,1,0,1,1,0.0641025641025641,47,10.96449890040842
 1,0,1,0.12066748232531856,1,0.12100456621004566,0.2858926342072409,1,1,1,0,1,0.1452991452991453,59,38.737040527803956
 2,0,1,0.12066748232531856,1,0.0821917808219178,0.5923845193508115,1,1,0,1,1,0.2692307692307692,71,73.78259503612944
